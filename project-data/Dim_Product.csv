@@ -1,0 +1,701 @@
+Product_ID,Product_Name,Category,Subcategory,Brand,Unit_Price,Unit_Cost,Launch_Date,Is_Active
+PROD0001,Learning Product 001,Books & Stationery,Learning,EverydayPlus,199.22,105.77,28-12-2017,1
+PROD0002,Computing Product 002,Electronics,Computing,Velora,399.37,274.48,07-07-2024,1
+PROD0003,Clothing Product 003,Fashion,Clothing,BrightNest,150,67.42,20-11-2024,1
+PROD0004,Art Supplies Product 004,Books & Stationery,Art Supplies,BrightNest,521.51,241.7,10-03-2022,1
+PROD0005,Footwear Product 005,Fashion,Footwear,EverydayPlus,430.41,207.98,22-10-2015,1
+PROD0006,Fitness Product 006,Sports & Outdoors,Fitness,NovaHome,683.95,386.31,28-03-2017,1
+PROD0007,Footwear Product 007,Fashion,Footwear,PixelPeak,505.42,269.71,10-12-2016,1
+PROD0008,Outdoor Gear Product 008,Sports & Outdoors,Outdoor Gear,Velora,165.95,85.18,06-03-2022,1
+PROD0009,Small Appliances Product 009,Home & Kitchen,Small Appliances,CoreCraft,725.96,439.25,11-01-2024,1
+PROD0010,Small Appliances Product 010,Home & Kitchen,Small Appliances,EverydayPlus,377.73,218.92,28-03-2015,1
+PROD0011,Small Appliances Product 011,Home & Kitchen,Small Appliances,NovaHome,325.9,201.29,09-05-2021,1
+PROD0012,Audio Product 012,Electronics,Audio,BrightNest,298.57,216.08,12-06-2024,1
+PROD0013,Books Product 013,Books & Stationery,Books,UrbanLeaf,476.27,226.85,16-05-2025,1
+PROD0014,Audio Product 014,Electronics,Audio,UrbanLeaf,226.66,172.38,11-03-2021,1
+PROD0015,Watches Product 015,Fashion,Watches,NovaHome,611.49,270.23,29-04-2018,0
+PROD0016,Audio Product 016,Electronics,Audio,CoreCraft,1055.93,769.7,09-10-2024,1
+PROD0017,Art Supplies Product 017,Books & Stationery,Art Supplies,PixelPeak,529.71,258.23,19-04-2017,1
+PROD0018,Storage Product 018,Home & Kitchen,Storage,CoreCraft,556.2,290.1,24-07-2017,1
+PROD0019,Small Appliances Product 019,Home & Kitchen,Small Appliances,Northstar,238.69,133.52,23-11-2015,1
+PROD0020,Cycling Product 020,Sports & Outdoors,Cycling,BlueOrbit,222.42,133.89,13-02-2025,1
+PROD0021,Audio Product 021,Electronics,Audio,NovaHome,158.17,115.93,08-10-2015,1
+PROD0022,Audio Product 022,Electronics,Audio,EverydayPlus,200.6,124.98,09-10-2017,1
+PROD0023,Outdoor Gear Product 023,Sports & Outdoors,Outdoor Gear,BlueOrbit,215.24,123.3,04-02-2017,1
+PROD0024,Storage Product 024,Home & Kitchen,Storage,BrightNest,1262.06,696.78,31-10-2017,1
+PROD0025,Learning Product 025,Books & Stationery,Learning,PixelPeak,433.46,205.01,24-09-2017,0
+PROD0026,Footwear Product 026,Fashion,Footwear,NovaHome,961.6,448.82,16-01-2019,1
+PROD0027,Art Supplies Product 027,Books & Stationery,Art Supplies,PixelPeak,824.34,436.25,04-10-2022,1
+PROD0028,Bags Product 028,Fashion,Bags,NovaHome,582.99,256.99,20-10-2022,1
+PROD0029,Fragrance Product 029,Beauty & Personal Care,Fragrance,CoreCraft,285.81,116.14,18-06-2019,1
+PROD0030,Fragrance Product 030,Beauty & Personal Care,Fragrance,Northstar,346.63,149.92,26-03-2021,1
+PROD0031,Skincare Product 031,Beauty & Personal Care,Skincare,BlueOrbit,742.65,304.63,26-12-2015,0
+PROD0032,Kitchenware Product 032,Home & Kitchen,Kitchenware,NovaHome,270.91,153.79,08-05-2016,1
+PROD0033,Cycling Product 033,Sports & Outdoors,Cycling,UrbanLeaf,948.42,503.59,12-02-2021,1
+PROD0034,Watches Product 034,Fashion,Watches,PixelPeak,332.92,147.26,05-10-2021,1
+PROD0035,Smart Home Product 035,Electronics,Smart Home,BrightNest,673.35,429.36,05-08-2024,1
+PROD0036,Haircare Product 036,Beauty & Personal Care,Haircare,EverydayPlus,182.35,85.69,07-09-2017,1
+PROD0037,Smart Home Product 037,Electronics,Smart Home,CoreCraft,830.67,547.36,02-05-2023,1
+PROD0038,Bags Product 038,Fashion,Bags,CoreCraft,368.31,169.73,24-09-2025,1
+PROD0039,Footwear Product 039,Fashion,Footwear,PixelPeak,763.55,343.06,04-10-2018,1
+PROD0040,Home Decor Product 040,Home & Kitchen,Home Decor,Aster & Co,942.78,497.5,11-06-2020,1
+PROD0041,Home Decor Product 041,Home & Kitchen,Home Decor,UrbanLeaf,359.65,192.3,10-02-2022,0
+PROD0042,Art Supplies Product 042,Books & Stationery,Art Supplies,BrightNest,477.47,230.58,17-10-2017,1
+PROD0043,Learning Product 043,Books & Stationery,Learning,Aster & Co,320.67,171.26,17-05-2024,1
+PROD0044,Footwear Product 044,Fashion,Footwear,BrightNest,378.35,180,02-11-2024,1
+PROD0045,Kitchenware Product 045,Home & Kitchen,Kitchenware,PixelPeak,315.57,187.79,24-04-2017,1
+PROD0046,Storage Product 046,Home & Kitchen,Storage,BrightNest,528.56,325.67,29-05-2020,1
+PROD0047,Bags Product 047,Fashion,Bags,Northstar,465.97,219.23,30-04-2022,1
+PROD0048,Outdoor Gear Product 048,Sports & Outdoors,Outdoor Gear,NovaHome,422.77,237.43,17-11-2025,1
+PROD0049,Clothing Product 049,Fashion,Clothing,Velora,150,66.99,17-12-2023,1
+PROD0050,Art Supplies Product 050,Books & Stationery,Art Supplies,NovaHome,1683.62,883.73,09-10-2023,1
+PROD0051,Books Product 051,Books & Stationery,Books,Northstar,406.9,200.94,16-05-2016,1
+PROD0052,Clothing Product 052,Fashion,Clothing,Northstar,345.73,152.89,28-04-2015,1
+PROD0053,Learning Product 053,Books & Stationery,Learning,Velora,1311.69,622.32,12-02-2019,1
+PROD0054,Bags Product 054,Fashion,Bags,Northstar,424.76,222.12,20-05-2025,1
+PROD0055,Skincare Product 055,Beauty & Personal Care,Skincare,BlueOrbit,180.32,72.11,02-01-2015,1
+PROD0056,Storage Product 056,Home & Kitchen,Storage,CoreCraft,320.46,199.17,01-04-2015,1
+PROD0057,Fragrance Product 057,Beauty & Personal Care,Fragrance,NovaHome,1323.02,510.39,13-01-2015,1
+PROD0058,Watches Product 058,Fashion,Watches,UrbanLeaf,1117.72,580.47,22-06-2019,1
+PROD0059,Audio Product 059,Electronics,Audio,PixelPeak,743.91,460.93,25-05-2024,1
+PROD0060,Smart Home Product 060,Electronics,Smart Home,UrbanLeaf,1678.26,1080.05,01-09-2016,1
+PROD0061,Storage Product 061,Home & Kitchen,Storage,BrightNest,454.02,239.58,28-11-2017,1
+PROD0062,Books Product 062,Books & Stationery,Books,UrbanLeaf,536.02,282.22,03-08-2018,1
+PROD0063,Watches Product 063,Fashion,Watches,EverydayPlus,1209.1,617.27,29-07-2021,1
+PROD0064,Outdoor Gear Product 064,Sports & Outdoors,Outdoor Gear,EverydayPlus,691.99,329.92,09-02-2016,1
+PROD0065,Watches Product 065,Fashion,Watches,NovaHome,504.27,244.63,12-05-2022,1
+PROD0066,Fitness Product 066,Sports & Outdoors,Fitness,PixelPeak,544.61,281,14-07-2016,1
+PROD0067,Outdoor Gear Product 067,Sports & Outdoors,Outdoor Gear,BlueOrbit,358.38,191.58,23-06-2024,0
+PROD0068,Outdoor Gear Product 068,Sports & Outdoors,Outdoor Gear,Velora,201.06,115.25,02-01-2018,1
+PROD0069,Cycling Product 069,Sports & Outdoors,Cycling,BlueOrbit,435.18,243.77,20-01-2018,1
+PROD0070,Watches Product 070,Fashion,Watches,BrightNest,180.01,91.88,08-03-2023,1
+PROD0071,Learning Product 071,Books & Stationery,Learning,Northstar,155.87,78.69,27-09-2017,1
+PROD0072,Fragrance Product 072,Beauty & Personal Care,Fragrance,BrightNest,622.02,284.94,07-03-2018,1
+PROD0073,Art Supplies Product 073,Books & Stationery,Art Supplies,Velora,398.56,201.8,04-03-2019,1
+PROD0074,Office Supplies Product 074,Books & Stationery,Office Supplies,CoreCraft,194.51,105.15,21-01-2017,1
+PROD0075,Computing Product 075,Electronics,Computing,UrbanLeaf,150,112.52,08-05-2022,1
+PROD0076,Mobile Accessories Product 076,Electronics,Mobile Accessories,Velora,390.04,285.84,22-09-2020,1
+PROD0077,Learning Product 077,Books & Stationery,Learning,UrbanLeaf,957.79,460.19,28-12-2023,1
+PROD0078,Mobile Accessories Product 078,Electronics,Mobile Accessories,BrightNest,320.78,234.66,31-08-2015,1
+PROD0079,Skincare Product 079,Beauty & Personal Care,Skincare,Aster & Co,150,56.89,29-11-2025,1
+PROD0080,Home Decor Product 080,Home & Kitchen,Home Decor,BlueOrbit,156.69,91.34,04-12-2017,1
+PROD0081,Kitchenware Product 081,Home & Kitchen,Kitchenware,UrbanLeaf,191.87,100.11,01-07-2020,0
+PROD0082,Mobile Accessories Product 082,Electronics,Mobile Accessories,Velora,310.33,203.72,16-12-2025,1
+PROD0083,Cycling Product 083,Sports & Outdoors,Cycling,Northstar,635.4,320.53,12-09-2024,1
+PROD0084,Outdoor Gear Product 084,Sports & Outdoors,Outdoor Gear,Velora,712.5,422.28,28-08-2022,1
+PROD0085,Watches Product 085,Fashion,Watches,BlueOrbit,1691.92,773.82,02-07-2024,1
+PROD0086,Art Supplies Product 086,Books & Stationery,Art Supplies,BrightNest,172.33,76.27,27-01-2025,1
+PROD0087,Cycling Product 087,Sports & Outdoors,Cycling,Northstar,692.14,384.86,20-03-2017,1
+PROD0088,Art Supplies Product 088,Books & Stationery,Art Supplies,BlueOrbit,385.8,178.84,10-06-2025,1
+PROD0089,Outdoor Gear Product 089,Sports & Outdoors,Outdoor Gear,CoreCraft,289.66,169.86,07-09-2024,1
+PROD0090,Cycling Product 090,Sports & Outdoors,Cycling,BlueOrbit,829.08,412.62,15-08-2017,0
+PROD0091,Clothing Product 091,Fashion,Clothing,BrightNest,206.81,100.15,20-05-2019,1
+PROD0092,Haircare Product 092,Beauty & Personal Care,Haircare,PixelPeak,282.48,112.09,15-03-2015,1
+PROD0093,Small Appliances Product 093,Home & Kitchen,Small Appliances,NovaHome,284.24,157.78,25-11-2023,1
+PROD0094,Mobile Accessories Product 094,Electronics,Mobile Accessories,PixelPeak,335.27,235.55,06-09-2022,1
+PROD0095,Mobile Accessories Product 095,Electronics,Mobile Accessories,BlueOrbit,1062.58,701.79,17-12-2020,1
+PROD0096,Audio Product 096,Electronics,Audio,BlueOrbit,640.51,500.41,10-10-2016,0
+PROD0097,Sportswear Product 097,Sports & Outdoors,Sportswear,Aster & Co,1944.96,1106.29,17-03-2019,1
+PROD0098,Storage Product 098,Home & Kitchen,Storage,BlueOrbit,937.59,566.08,16-10-2020,1
+PROD0099,Watches Product 099,Fashion,Watches,UrbanLeaf,811.51,411.55,15-07-2019,1
+PROD0100,Clothing Product 100,Fashion,Clothing,BrightNest,150,72.66,17-12-2017,1
+PROD0101,Kitchenware Product 101,Home & Kitchen,Kitchenware,Aster & Co,574.32,347.55,03-04-2022,1
+PROD0102,Storage Product 102,Home & Kitchen,Storage,EverydayPlus,442.22,260.97,23-11-2018,1
+PROD0103,Storage Product 103,Home & Kitchen,Storage,EverydayPlus,348.7,208.34,26-09-2021,0
+PROD0104,Books Product 104,Books & Stationery,Books,UrbanLeaf,204.95,96.91,28-06-2015,1
+PROD0105,Skincare Product 105,Beauty & Personal Care,Skincare,BlueOrbit,182.55,87.02,20-03-2023,1
+PROD0106,Sportswear Product 106,Sports & Outdoors,Sportswear,BlueOrbit,363.41,181.39,17-04-2019,1
+PROD0107,Clothing Product 107,Fashion,Clothing,EverydayPlus,1216.8,517.18,04-02-2015,1
+PROD0108,Mobile Accessories Product 108,Electronics,Mobile Accessories,PixelPeak,197.22,150.72,18-11-2021,1
+PROD0109,Clothing Product 109,Fashion,Clothing,Northstar,248.18,126.56,12-06-2020,1
+PROD0110,Smart Home Product 110,Electronics,Smart Home,Velora,771.26,582.62,20-11-2025,1
+PROD0111,Watches Product 111,Fashion,Watches,UrbanLeaf,854.51,427.59,12-10-2025,0
+PROD0112,Office Supplies Product 112,Books & Stationery,Office Supplies,BlueOrbit,790.68,391.16,28-12-2024,1
+PROD0113,Kitchenware Product 113,Home & Kitchen,Kitchenware,Velora,683.08,344.7,28-09-2025,1
+PROD0114,Bags Product 114,Fashion,Bags,PixelPeak,692.86,347.06,19-09-2018,1
+PROD0115,Storage Product 115,Home & Kitchen,Storage,BrightNest,467.61,242.43,21-11-2017,1
+PROD0116,Audio Product 116,Electronics,Audio,BrightNest,150,92.9,21-11-2020,1
+PROD0117,Kitchenware Product 117,Home & Kitchen,Kitchenware,BrightNest,408.29,240.02,04-05-2022,1
+PROD0118,Computing Product 118,Electronics,Computing,PixelPeak,1458.15,934.9,27-07-2019,1
+PROD0119,Smart Home Product 119,Electronics,Smart Home,CoreCraft,464.36,310.82,18-04-2023,1
+PROD0120,Office Supplies Product 120,Books & Stationery,Office Supplies,UrbanLeaf,642.96,286.77,11-09-2016,1
+PROD0121,Learning Product 121,Books & Stationery,Learning,CoreCraft,2270.19,1069.02,24-11-2016,1
+PROD0122,Learning Product 122,Books & Stationery,Learning,Velora,347.78,185.45,06-12-2024,1
+PROD0123,Storage Product 123,Home & Kitchen,Storage,PixelPeak,1466.8,893.79,23-07-2019,1
+PROD0124,Cycling Product 124,Sports & Outdoors,Cycling,BlueOrbit,1123.16,582.23,09-09-2024,1
+PROD0125,Personal Care Product 125,Beauty & Personal Care,Personal Care,BlueOrbit,844.51,388.72,01-03-2015,1
+PROD0126,Fragrance Product 126,Beauty & Personal Care,Fragrance,CoreCraft,668.13,314.83,15-06-2016,1
+PROD0127,Personal Care Product 127,Beauty & Personal Care,Personal Care,Aster & Co,1347.58,544.3,12-07-2024,1
+PROD0128,Bags Product 128,Fashion,Bags,CoreCraft,690.35,339,28-01-2023,1
+PROD0129,Home Decor Product 129,Home & Kitchen,Home Decor,PixelPeak,795.48,497.16,10-01-2017,0
+PROD0130,Kitchenware Product 130,Home & Kitchen,Kitchenware,Velora,833.93,432.41,18-10-2021,1
+PROD0131,Mobile Accessories Product 131,Electronics,Mobile Accessories,NovaHome,625.38,439.83,27-05-2015,1
+PROD0132,Computing Product 132,Electronics,Computing,Aster & Co,257.71,160.07,22-06-2023,1
+PROD0133,Mobile Accessories Product 133,Electronics,Mobile Accessories,Aster & Co,244.26,187.86,12-10-2016,1
+PROD0134,Audio Product 134,Electronics,Audio,NovaHome,213.29,146.02,07-07-2024,1
+PROD0135,Outdoor Gear Product 135,Sports & Outdoors,Outdoor Gear,EverydayPlus,1163.59,661.94,14-05-2023,1
+PROD0136,Footwear Product 136,Fashion,Footwear,Northstar,354.22,157.4,27-07-2025,1
+PROD0137,Fragrance Product 137,Beauty & Personal Care,Fragrance,BlueOrbit,775.04,350.84,26-01-2020,1
+PROD0138,Art Supplies Product 138,Books & Stationery,Art Supplies,EverydayPlus,781.91,372.01,23-01-2020,1
+PROD0139,Kitchenware Product 139,Home & Kitchen,Kitchenware,Velora,542.62,345.55,30-08-2025,1
+PROD0140,Smart Home Product 140,Electronics,Smart Home,Velora,325.18,254.34,16-10-2024,1
+PROD0141,Office Supplies Product 141,Books & Stationery,Office Supplies,Velora,259.51,118.78,19-05-2016,1
+PROD0142,Audio Product 142,Electronics,Audio,CoreCraft,479.76,371.19,23-06-2015,1
+PROD0143,Watches Product 143,Fashion,Watches,BrightNest,631.98,294.65,01-10-2019,1
+PROD0144,Storage Product 144,Home & Kitchen,Storage,CoreCraft,342.42,183.18,05-07-2019,1
+PROD0145,Learning Product 145,Books & Stationery,Learning,NovaHome,553.43,300.36,14-05-2015,0
+PROD0146,Audio Product 146,Electronics,Audio,EverydayPlus,928.18,629.68,31-03-2021,1
+PROD0147,Learning Product 147,Books & Stationery,Learning,PixelPeak,293.69,129.71,24-11-2023,1
+PROD0148,Footwear Product 148,Fashion,Footwear,EverydayPlus,624.9,319.79,11-01-2025,1
+PROD0149,Audio Product 149,Electronics,Audio,EverydayPlus,1161.04,804.74,12-01-2015,1
+PROD0150,Fitness Product 150,Sports & Outdoors,Fitness,Aster & Co,294.41,148.26,21-08-2022,0
+PROD0151,Personal Care Product 151,Beauty & Personal Care,Personal Care,PixelPeak,150,62.81,14-06-2023,1
+PROD0152,Fitness Product 152,Sports & Outdoors,Fitness,UrbanLeaf,368.89,187.66,31-03-2020,1
+PROD0153,Bags Product 153,Fashion,Bags,Northstar,319.06,144.33,09-10-2025,1
+PROD0154,Kitchenware Product 154,Home & Kitchen,Kitchenware,Aster & Co,412.9,233.23,11-02-2020,1
+PROD0155,Cycling Product 155,Sports & Outdoors,Cycling,UrbanLeaf,212.88,105.46,04-08-2023,1
+PROD0156,Small Appliances Product 156,Home & Kitchen,Small Appliances,EverydayPlus,1444.37,784.25,01-01-2021,1
+PROD0157,Storage Product 157,Home & Kitchen,Storage,CoreCraft,556.91,307.89,13-06-2023,1
+PROD0158,Mobile Accessories Product 158,Electronics,Mobile Accessories,EverydayPlus,197.3,148.69,16-04-2024,1
+PROD0159,Office Supplies Product 159,Books & Stationery,Office Supplies,CoreCraft,715.13,382.9,25-08-2019,1
+PROD0160,Haircare Product 160,Beauty & Personal Care,Haircare,BlueOrbit,614.14,260.8,27-07-2017,0
+PROD0161,Footwear Product 161,Fashion,Footwear,EverydayPlus,849.56,409.76,04-09-2021,1
+PROD0162,Mobile Accessories Product 162,Electronics,Mobile Accessories,PixelPeak,314.54,198.95,01-04-2016,1
+PROD0163,Learning Product 163,Books & Stationery,Learning,BrightNest,475.37,237.67,25-05-2020,1
+PROD0164,Home Decor Product 164,Home & Kitchen,Home Decor,BlueOrbit,285.77,170.03,03-11-2022,0
+PROD0165,Personal Care Product 165,Beauty & Personal Care,Personal Care,BlueOrbit,460.34,184.21,01-04-2024,1
+PROD0166,Bags Product 166,Fashion,Bags,BrightNest,225.62,100.07,14-01-2020,1
+PROD0167,Clothing Product 167,Fashion,Clothing,NovaHome,303.01,161.1,02-04-2019,1
+PROD0168,Computing Product 168,Electronics,Computing,BlueOrbit,437.04,300.8,21-12-2019,1
+PROD0169,Small Appliances Product 169,Home & Kitchen,Small Appliances,Velora,276.89,154.92,13-10-2022,1
+PROD0170,Audio Product 170,Electronics,Audio,Northstar,1406.3,1026.09,07-04-2020,1
+PROD0171,Small Appliances Product 171,Home & Kitchen,Small Appliances,BlueOrbit,1519.55,863.06,12-10-2015,1
+PROD0172,Small Appliances Product 172,Home & Kitchen,Small Appliances,BlueOrbit,490.03,279.14,18-01-2018,1
+PROD0173,Bags Product 173,Fashion,Bags,BlueOrbit,518.66,262.99,13-06-2015,0
+PROD0174,Fitness Product 174,Sports & Outdoors,Fitness,CoreCraft,1027.64,528.52,10-08-2018,1
+PROD0175,Computing Product 175,Electronics,Computing,BlueOrbit,763.93,520.02,11-12-2016,1
+PROD0176,Personal Care Product 176,Beauty & Personal Care,Personal Care,BlueOrbit,292.33,121.55,21-12-2020,1
+PROD0177,Home Decor Product 177,Home & Kitchen,Home Decor,CoreCraft,1175.83,704.26,15-08-2021,1
+PROD0178,Bags Product 178,Fashion,Bags,UrbanLeaf,739.72,369.52,01-05-2021,1
+PROD0179,Computing Product 179,Electronics,Computing,PixelPeak,406,291.06,23-04-2023,1
+PROD0180,Sportswear Product 180,Sports & Outdoors,Sportswear,CoreCraft,288.18,140.13,19-06-2019,1
+PROD0181,Computing Product 181,Electronics,Computing,NovaHome,450.65,307.43,06-01-2025,1
+PROD0182,Books Product 182,Books & Stationery,Books,Velora,222.12,103.9,09-07-2015,1
+PROD0183,Office Supplies Product 183,Books & Stationery,Office Supplies,BrightNest,2088.59,1033.12,06-03-2025,0
+PROD0184,Computing Product 184,Electronics,Computing,PixelPeak,345.29,227.12,10-11-2017,1
+PROD0185,Skincare Product 185,Beauty & Personal Care,Skincare,BlueOrbit,233.3,110.36,16-12-2023,1
+PROD0186,Fitness Product 186,Sports & Outdoors,Fitness,CoreCraft,242.12,132.37,12-10-2020,1
+PROD0187,Computing Product 187,Electronics,Computing,CoreCraft,348.76,224.53,12-03-2018,1
+PROD0188,Outdoor Gear Product 188,Sports & Outdoors,Outdoor Gear,Aster & Co,737.29,397.35,29-12-2019,1
+PROD0189,Home Decor Product 189,Home & Kitchen,Home Decor,BlueOrbit,629.91,369.41,13-02-2017,1
+PROD0190,Personal Care Product 190,Beauty & Personal Care,Personal Care,NovaHome,438.38,179.9,16-08-2015,1
+PROD0191,Outdoor Gear Product 191,Sports & Outdoors,Outdoor Gear,Northstar,1187.88,662.01,16-08-2017,1
+PROD0192,Home Decor Product 192,Home & Kitchen,Home Decor,Velora,447.33,242.07,21-08-2024,1
+PROD0193,Outdoor Gear Product 193,Sports & Outdoors,Outdoor Gear,UrbanLeaf,591.64,351.73,28-11-2022,1
+PROD0194,Footwear Product 194,Fashion,Footwear,PixelPeak,285.67,141.25,15-09-2024,1
+PROD0195,Watches Product 195,Fashion,Watches,PixelPeak,566.3,304.38,01-01-2024,1
+PROD0196,Fragrance Product 196,Beauty & Personal Care,Fragrance,UrbanLeaf,198.52,81.46,23-03-2018,1
+PROD0197,Computing Product 197,Electronics,Computing,EverydayPlus,150,111.33,22-09-2022,1
+PROD0198,Fitness Product 198,Sports & Outdoors,Fitness,Northstar,307.92,184.18,07-04-2023,1
+PROD0199,Clothing Product 199,Fashion,Clothing,PixelPeak,428.98,212.66,30-12-2025,1
+PROD0200,Office Supplies Product 200,Books & Stationery,Office Supplies,Northstar,807.92,372.38,12-07-2018,1
+PROD0201,Smart Home Product 201,Electronics,Smart Home,PixelPeak,180.57,114.89,30-09-2016,1
+PROD0202,Home Decor Product 202,Home & Kitchen,Home Decor,NovaHome,304.36,152.8,18-06-2020,1
+PROD0203,Outdoor Gear Product 203,Sports & Outdoors,Outdoor Gear,CoreCraft,354.7,179.1,17-04-2022,1
+PROD0204,Cycling Product 204,Sports & Outdoors,Cycling,BrightNest,150,89.76,06-04-2018,1
+PROD0205,Books Product 205,Books & Stationery,Books,Velora,479.1,235.09,08-03-2017,1
+PROD0206,Fitness Product 206,Sports & Outdoors,Fitness,UrbanLeaf,463.3,224.58,20-06-2025,1
+PROD0207,Cycling Product 207,Sports & Outdoors,Cycling,NovaHome,338.7,171.77,30-08-2022,1
+PROD0208,Footwear Product 208,Fashion,Footwear,EverydayPlus,625.49,330.63,20-09-2023,1
+PROD0209,Fragrance Product 209,Beauty & Personal Care,Fragrance,EverydayPlus,424.73,188.66,08-04-2019,1
+PROD0210,Bags Product 210,Fashion,Bags,UrbanLeaf,415.58,208.44,28-08-2018,1
+PROD0211,Small Appliances Product 211,Home & Kitchen,Small Appliances,UrbanLeaf,239.01,136.47,16-08-2020,1
+PROD0212,Watches Product 212,Fashion,Watches,NovaHome,472.17,202.93,27-02-2016,1
+PROD0213,Home Decor Product 213,Home & Kitchen,Home Decor,BlueOrbit,714.76,373.43,20-05-2020,1
+PROD0214,Bags Product 214,Fashion,Bags,Velora,411.22,200.78,30-01-2019,1
+PROD0215,Bags Product 215,Fashion,Bags,Velora,382.32,200.79,02-07-2018,1
+PROD0216,Outdoor Gear Product 216,Sports & Outdoors,Outdoor Gear,CoreCraft,150,79.05,14-03-2016,1
+PROD0217,Haircare Product 217,Beauty & Personal Care,Haircare,NovaHome,300.82,123.96,08-08-2022,1
+PROD0218,Storage Product 218,Home & Kitchen,Storage,BlueOrbit,670.29,413.87,12-06-2020,1
+PROD0219,Fragrance Product 219,Beauty & Personal Care,Fragrance,UrbanLeaf,805.48,335.5,31-08-2016,1
+PROD0220,Haircare Product 220,Beauty & Personal Care,Haircare,Northstar,496.48,235.47,02-04-2024,1
+PROD0221,Books Product 221,Books & Stationery,Books,BrightNest,553.53,285.16,02-12-2017,1
+PROD0222,Computing Product 222,Electronics,Computing,PixelPeak,656.72,439.92,31-12-2016,1
+PROD0223,Kitchenware Product 223,Home & Kitchen,Kitchenware,Aster & Co,1070.78,629.94,24-12-2023,1
+PROD0224,Watches Product 224,Fashion,Watches,NovaHome,303.73,160,26-04-2025,1
+PROD0225,Kitchenware Product 225,Home & Kitchen,Kitchenware,CoreCraft,776.64,401.26,02-06-2017,1
+PROD0226,Skincare Product 226,Beauty & Personal Care,Skincare,CoreCraft,356.13,170.29,22-07-2025,1
+PROD0227,Art Supplies Product 227,Books & Stationery,Art Supplies,Aster & Co,288.47,150.45,22-05-2015,1
+PROD0228,Kitchenware Product 228,Home & Kitchen,Kitchenware,Aster & Co,491.52,298.21,05-06-2019,1
+PROD0229,Computing Product 229,Electronics,Computing,Velora,176.96,112.28,05-01-2017,1
+PROD0230,Bags Product 230,Fashion,Bags,CoreCraft,493.26,237.77,08-08-2023,1
+PROD0231,Home Decor Product 231,Home & Kitchen,Home Decor,Northstar,1026.83,650.39,24-08-2024,1
+PROD0232,Outdoor Gear Product 232,Sports & Outdoors,Outdoor Gear,Velora,247.66,137.66,10-08-2020,1
+PROD0233,Books Product 233,Books & Stationery,Books,NovaHome,329.48,164.4,20-10-2024,1
+PROD0234,Sportswear Product 234,Sports & Outdoors,Sportswear,UrbanLeaf,325.73,162.32,27-09-2025,1
+PROD0235,Outdoor Gear Product 235,Sports & Outdoors,Outdoor Gear,EverydayPlus,1111.57,640.67,10-09-2023,1
+PROD0236,Cycling Product 236,Sports & Outdoors,Cycling,CoreCraft,270.58,147.84,28-09-2021,1
+PROD0237,Watches Product 237,Fashion,Watches,CoreCraft,345.34,173.84,23-03-2019,1
+PROD0238,Storage Product 238,Home & Kitchen,Storage,CoreCraft,3034.91,1886.65,10-08-2024,1
+PROD0239,Personal Care Product 239,Beauty & Personal Care,Personal Care,CoreCraft,1415.19,555.54,07-09-2019,1
+PROD0240,Watches Product 240,Fashion,Watches,BlueOrbit,216.63,104.31,31-08-2018,1
+PROD0241,Clothing Product 241,Fashion,Clothing,NovaHome,236.78,118.72,17-09-2017,1
+PROD0242,Small Appliances Product 242,Home & Kitchen,Small Appliances,CoreCraft,150,84.96,14-11-2019,1
+PROD0243,Skincare Product 243,Beauty & Personal Care,Skincare,Northstar,653.03,264.21,29-05-2020,0
+PROD0244,Audio Product 244,Electronics,Audio,BrightNest,444.4,324.57,11-09-2020,1
+PROD0245,Skincare Product 245,Beauty & Personal Care,Skincare,EverydayPlus,365.06,172.16,24-04-2024,1
+PROD0246,Clothing Product 246,Fashion,Clothing,BlueOrbit,456.22,226.21,27-03-2021,1
+PROD0247,Fitness Product 247,Sports & Outdoors,Fitness,BrightNest,550.3,279.06,20-03-2025,1
+PROD0248,Smart Home Product 248,Electronics,Smart Home,NovaHome,507.79,319.97,05-01-2020,1
+PROD0249,Office Supplies Product 249,Books & Stationery,Office Supplies,PixelPeak,741.77,399.73,25-12-2024,1
+PROD0250,Fragrance Product 250,Beauty & Personal Care,Fragrance,BlueOrbit,1905.13,743.99,10-10-2024,1
+PROD0251,Computing Product 251,Electronics,Computing,BlueOrbit,192.93,124.6,04-11-2025,0
+PROD0252,Fragrance Product 252,Beauty & Personal Care,Fragrance,CoreCraft,485.61,221.29,29-08-2019,1
+PROD0253,Fitness Product 253,Sports & Outdoors,Fitness,UrbanLeaf,836.4,484.69,28-01-2015,1
+PROD0254,Mobile Accessories Product 254,Electronics,Mobile Accessories,EverydayPlus,897.78,592.21,02-11-2016,1
+PROD0255,Learning Product 255,Books & Stationery,Learning,BrightNest,383.63,174.98,25-04-2025,1
+PROD0256,Skincare Product 256,Beauty & Personal Care,Skincare,Northstar,150,68.63,09-07-2016,1
+PROD0257,Art Supplies Product 257,Books & Stationery,Art Supplies,PixelPeak,271.02,138.28,25-12-2020,1
+PROD0258,Footwear Product 258,Fashion,Footwear,Velora,596.92,258.45,28-08-2024,1
+PROD0259,Skincare Product 259,Beauty & Personal Care,Skincare,EverydayPlus,179.89,71.68,05-12-2016,1
+PROD0260,Clothing Product 260,Fashion,Clothing,BlueOrbit,612.24,295.78,15-03-2022,0
+PROD0261,Small Appliances Product 261,Home & Kitchen,Small Appliances,NovaHome,490.66,274.69,05-05-2019,1
+PROD0262,Mobile Accessories Product 262,Electronics,Mobile Accessories,UrbanLeaf,929.46,612.42,31-10-2024,1
+PROD0263,Small Appliances Product 263,Home & Kitchen,Small Appliances,UrbanLeaf,291.96,177.52,29-12-2023,1
+PROD0264,Books Product 264,Books & Stationery,Books,EverydayPlus,588.34,274,30-09-2023,1
+PROD0265,Mobile Accessories Product 265,Electronics,Mobile Accessories,Velora,385.66,260.49,06-04-2015,1
+PROD0266,Footwear Product 266,Fashion,Footwear,CoreCraft,511.73,237.9,26-09-2018,1
+PROD0267,Home Decor Product 267,Home & Kitchen,Home Decor,NovaHome,602.69,374,20-07-2015,1
+PROD0268,Books Product 268,Books & Stationery,Books,Velora,278.4,129.15,10-06-2024,1
+PROD0269,Clothing Product 269,Fashion,Clothing,CoreCraft,905.23,480.46,24-10-2023,1
+PROD0270,Fitness Product 270,Sports & Outdoors,Fitness,BlueOrbit,408.52,221.34,29-07-2025,1
+PROD0271,Footwear Product 271,Fashion,Footwear,Northstar,808.23,416.14,09-02-2019,1
+PROD0272,Footwear Product 272,Fashion,Footwear,CoreCraft,557.58,293.76,29-03-2019,1
+PROD0273,Clothing Product 273,Fashion,Clothing,NovaHome,210.3,90.95,23-05-2025,1
+PROD0274,Home Decor Product 274,Home & Kitchen,Home Decor,Northstar,298.6,183.32,02-10-2016,1
+PROD0275,Kitchenware Product 275,Home & Kitchen,Kitchenware,NovaHome,472.84,244.89,29-05-2018,1
+PROD0276,Computing Product 276,Electronics,Computing,PixelPeak,835.17,579.08,22-09-2020,1
+PROD0277,Books Product 277,Books & Stationery,Books,PixelPeak,5019.58,2723.02,01-09-2021,1
+PROD0278,Mobile Accessories Product 278,Electronics,Mobile Accessories,Northstar,391.94,282.35,05-04-2020,1
+PROD0279,Smart Home Product 279,Electronics,Smart Home,Aster & Co,462.31,316.88,28-09-2025,1
+PROD0280,Watches Product 280,Fashion,Watches,Northstar,185.82,87.86,18-09-2022,1
+PROD0281,Fragrance Product 281,Beauty & Personal Care,Fragrance,Velora,1241.88,593.1,15-11-2020,1
+PROD0282,Clothing Product 282,Fashion,Clothing,Northstar,833.45,390.64,20-12-2022,1
+PROD0283,Audio Product 283,Electronics,Audio,Velora,578.02,357.7,02-05-2017,1
+PROD0284,Storage Product 284,Home & Kitchen,Storage,EverydayPlus,596,362.59,26-03-2024,1
+PROD0285,Fitness Product 285,Sports & Outdoors,Fitness,EverydayPlus,150,81.28,12-03-2016,1
+PROD0286,Books Product 286,Books & Stationery,Books,EverydayPlus,289.25,148.19,26-01-2025,1
+PROD0287,Personal Care Product 287,Beauty & Personal Care,Personal Care,PixelPeak,465.56,199.18,27-12-2017,1
+PROD0288,Skincare Product 288,Beauty & Personal Care,Skincare,Aster & Co,176.51,75.94,01-08-2020,0
+PROD0289,Bags Product 289,Fashion,Bags,NovaHome,539.52,282.82,08-04-2025,1
+PROD0290,Small Appliances Product 290,Home & Kitchen,Small Appliances,BrightNest,389.05,213.07,03-03-2024,1
+PROD0291,Fragrance Product 291,Beauty & Personal Care,Fragrance,CoreCraft,306.58,134.85,12-02-2020,1
+PROD0292,Haircare Product 292,Beauty & Personal Care,Haircare,NovaHome,1010.77,406.29,13-07-2018,1
+PROD0293,Skincare Product 293,Beauty & Personal Care,Skincare,UrbanLeaf,637.11,261.84,21-01-2020,1
+PROD0294,Outdoor Gear Product 294,Sports & Outdoors,Outdoor Gear,Velora,1049.39,500.49,13-12-2019,1
+PROD0295,Art Supplies Product 295,Books & Stationery,Art Supplies,BrightNest,544.91,293.77,18-06-2015,1
+PROD0296,Storage Product 296,Home & Kitchen,Storage,BlueOrbit,975.48,575.02,19-06-2015,1
+PROD0297,Storage Product 297,Home & Kitchen,Storage,CoreCraft,499.38,295.62,20-09-2016,1
+PROD0298,Sportswear Product 298,Sports & Outdoors,Sportswear,BrightNest,306.37,165.33,18-06-2017,1
+PROD0299,Personal Care Product 299,Beauty & Personal Care,Personal Care,EverydayPlus,573.83,243.73,29-01-2023,1
+PROD0300,Art Supplies Product 300,Books & Stationery,Art Supplies,CoreCraft,230.19,122.81,17-06-2018,1
+PROD0301,Smart Home Product 301,Electronics,Smart Home,BlueOrbit,328.3,212.64,21-03-2023,1
+PROD0302,Cycling Product 302,Sports & Outdoors,Cycling,PixelPeak,573.75,289.94,31-12-2015,0
+PROD0303,Mobile Accessories Product 303,Electronics,Mobile Accessories,CoreCraft,188.8,133.87,03-06-2024,1
+PROD0304,Cycling Product 304,Sports & Outdoors,Cycling,BrightNest,163.58,97.66,23-05-2020,1
+PROD0305,Clothing Product 305,Fashion,Clothing,BrightNest,427.66,190.93,26-12-2020,1
+PROD0306,Audio Product 306,Electronics,Audio,Velora,1652.63,1021.1,20-01-2015,1
+PROD0307,Cycling Product 307,Sports & Outdoors,Cycling,NovaHome,369.23,220.73,20-09-2018,1
+PROD0308,Home Decor Product 308,Home & Kitchen,Home Decor,BrightNest,1123.19,622.15,17-05-2021,1
+PROD0309,Watches Product 309,Fashion,Watches,EverydayPlus,776.99,334.73,21-08-2022,1
+PROD0310,Art Supplies Product 310,Books & Stationery,Art Supplies,CoreCraft,260.28,120.78,27-09-2019,1
+PROD0311,Personal Care Product 311,Beauty & Personal Care,Personal Care,BrightNest,150,71.45,26-07-2019,1
+PROD0312,Computing Product 312,Electronics,Computing,EverydayPlus,373.88,278.09,29-05-2020,1
+PROD0313,Fitness Product 313,Sports & Outdoors,Fitness,PixelPeak,326.07,176.58,21-10-2015,1
+PROD0314,Learning Product 314,Books & Stationery,Learning,UrbanLeaf,1678.36,904.72,29-10-2022,1
+PROD0315,Kitchenware Product 315,Home & Kitchen,Kitchenware,PixelPeak,390.24,222.57,10-04-2022,1
+PROD0316,Cycling Product 316,Sports & Outdoors,Cycling,PixelPeak,543.16,324.46,15-08-2025,1
+PROD0317,Computing Product 317,Electronics,Computing,Northstar,787.86,507.17,30-03-2020,1
+PROD0318,Outdoor Gear Product 318,Sports & Outdoors,Outdoor Gear,UrbanLeaf,529.84,314.82,20-09-2016,0
+PROD0319,Bags Product 319,Fashion,Bags,Velora,505.62,243.35,12-02-2020,1
+PROD0320,Skincare Product 320,Beauty & Personal Care,Skincare,Aster & Co,1374.14,525.95,15-10-2018,1
+PROD0321,Bags Product 321,Fashion,Bags,Aster & Co,514.84,254.35,23-06-2018,1
+PROD0322,Computing Product 322,Electronics,Computing,Velora,945.51,588.14,14-04-2020,1
+PROD0323,Mobile Accessories Product 323,Electronics,Mobile Accessories,BlueOrbit,1096.97,818.22,27-08-2024,1
+PROD0324,Storage Product 324,Home & Kitchen,Storage,NovaHome,754.46,387.05,27-11-2022,1
+PROD0325,Audio Product 325,Electronics,Audio,Aster & Co,409.34,288.5,14-08-2023,1
+PROD0326,Computing Product 326,Electronics,Computing,EverydayPlus,619.21,406.84,28-04-2020,1
+PROD0327,Smart Home Product 327,Electronics,Smart Home,Aster & Co,261.52,197.34,30-04-2025,1
+PROD0328,Kitchenware Product 328,Home & Kitchen,Kitchenware,BrightNest,942.81,493.13,05-04-2022,1
+PROD0329,Fragrance Product 329,Beauty & Personal Care,Fragrance,EverydayPlus,1201.11,480.22,14-03-2021,1
+PROD0330,Kitchenware Product 330,Home & Kitchen,Kitchenware,Velora,383.09,230.17,16-03-2022,1
+PROD0331,Cycling Product 331,Sports & Outdoors,Cycling,BrightNest,222.47,114.5,21-10-2018,1
+PROD0332,Small Appliances Product 332,Home & Kitchen,Small Appliances,Aster & Co,811.01,491.35,31-01-2021,1
+PROD0333,Kitchenware Product 333,Home & Kitchen,Kitchenware,CoreCraft,689.92,407.81,26-03-2015,1
+PROD0334,Storage Product 334,Home & Kitchen,Storage,Aster & Co,150,82.73,14-05-2024,1
+PROD0335,Haircare Product 335,Beauty & Personal Care,Haircare,Velora,405.66,165.26,21-10-2023,1
+PROD0336,Skincare Product 336,Beauty & Personal Care,Skincare,PixelPeak,377.16,176.4,29-01-2020,1
+PROD0337,Personal Care Product 337,Beauty & Personal Care,Personal Care,PixelPeak,163.09,74.49,04-06-2021,1
+PROD0338,Bags Product 338,Fashion,Bags,Northstar,924.49,402.54,14-01-2018,1
+PROD0339,Sportswear Product 339,Sports & Outdoors,Sportswear,UrbanLeaf,958.55,538.86,26-02-2024,1
+PROD0340,Art Supplies Product 340,Books & Stationery,Art Supplies,Northstar,279.65,149.76,04-04-2021,1
+PROD0341,Computing Product 341,Electronics,Computing,NovaHome,2984.14,2027.9,27-09-2021,1
+PROD0342,Haircare Product 342,Beauty & Personal Care,Haircare,Aster & Co,279.69,111.81,30-09-2020,1
+PROD0343,Sportswear Product 343,Sports & Outdoors,Sportswear,Aster & Co,426.22,234.85,30-07-2020,1
+PROD0344,Clothing Product 344,Fashion,Clothing,BlueOrbit,524.1,223.1,20-01-2019,1
+PROD0345,Watches Product 345,Fashion,Watches,UrbanLeaf,1317.55,700.56,28-12-2016,1
+PROD0346,Cycling Product 346,Sports & Outdoors,Cycling,NovaHome,1748.32,993.18,11-11-2017,1
+PROD0347,Sportswear Product 347,Sports & Outdoors,Sportswear,CoreCraft,392.14,188.81,21-08-2017,1
+PROD0348,Books Product 348,Books & Stationery,Books,Northstar,490.48,227.94,29-09-2021,1
+PROD0349,Fragrance Product 349,Beauty & Personal Care,Fragrance,Aster & Co,239.96,93.27,03-07-2017,1
+PROD0350,Office Supplies Product 350,Books & Stationery,Office Supplies,BrightNest,402.62,215.45,30-12-2020,1
+PROD0351,Smart Home Product 351,Electronics,Smart Home,Northstar,428.09,265.9,22-10-2016,1
+PROD0352,Learning Product 352,Books & Stationery,Learning,EverydayPlus,150,67.31,29-12-2018,1
+PROD0353,Smart Home Product 353,Electronics,Smart Home,Aster & Co,377.32,281.84,13-01-2019,1
+PROD0354,Home Decor Product 354,Home & Kitchen,Home Decor,Aster & Co,507.19,320.21,25-03-2023,1
+PROD0355,Skincare Product 355,Beauty & Personal Care,Skincare,Aster & Co,946.23,406.25,12-04-2017,1
+PROD0356,Watches Product 356,Fashion,Watches,PixelPeak,614.3,292.79,10-07-2015,1
+PROD0357,Bags Product 357,Fashion,Bags,CoreCraft,538.07,277.66,27-11-2024,1
+PROD0358,Outdoor Gear Product 358,Sports & Outdoors,Outdoor Gear,UrbanLeaf,295.96,142.73,03-01-2017,0
+PROD0359,Office Supplies Product 359,Books & Stationery,Office Supplies,Velora,538.87,250.49,31-03-2022,1
+PROD0360,Outdoor Gear Product 360,Sports & Outdoors,Outdoor Gear,EverydayPlus,447.96,227,21-01-2020,0
+PROD0361,Cycling Product 361,Sports & Outdoors,Cycling,CoreCraft,267.27,151.85,20-05-2015,1
+PROD0362,Watches Product 362,Fashion,Watches,UrbanLeaf,403.5,196.7,14-07-2016,1
+PROD0363,Cycling Product 363,Sports & Outdoors,Cycling,EverydayPlus,311.69,173.16,31-05-2021,1
+PROD0364,Home Decor Product 364,Home & Kitchen,Home Decor,BrightNest,662.01,383.98,08-05-2018,1
+PROD0365,Haircare Product 365,Beauty & Personal Care,Haircare,Northstar,1048.79,422.28,10-02-2020,1
+PROD0366,Books Product 366,Books & Stationery,Books,NovaHome,574.45,270.26,08-08-2023,1
+PROD0367,Kitchenware Product 367,Home & Kitchen,Kitchenware,NovaHome,333.41,174.9,09-11-2015,1
+PROD0368,Cycling Product 368,Sports & Outdoors,Cycling,BlueOrbit,329.97,162.09,22-06-2015,1
+PROD0369,Footwear Product 369,Fashion,Footwear,CoreCraft,475.92,231.04,03-03-2021,1
+PROD0370,Smart Home Product 370,Electronics,Smart Home,NovaHome,768.29,485.31,05-07-2016,1
+PROD0371,Art Supplies Product 371,Books & Stationery,Art Supplies,CoreCraft,849.95,459.47,03-02-2022,1
+PROD0372,Art Supplies Product 372,Books & Stationery,Art Supplies,Aster & Co,183.03,83.78,27-06-2020,1
+PROD0373,Personal Care Product 373,Beauty & Personal Care,Personal Care,EverydayPlus,911.37,377.52,15-09-2022,1
+PROD0374,Bags Product 374,Fashion,Bags,BlueOrbit,486.24,240.76,17-10-2023,1
+PROD0375,Cycling Product 375,Sports & Outdoors,Cycling,PixelPeak,172.51,85.78,20-06-2020,1
+PROD0376,Computing Product 376,Electronics,Computing,CoreCraft,702.22,498.19,21-05-2018,1
+PROD0377,Haircare Product 377,Beauty & Personal Care,Haircare,Aster & Co,150,71.23,14-05-2023,1
+PROD0378,Fragrance Product 378,Beauty & Personal Care,Fragrance,Velora,455.11,212.49,21-10-2017,1
+PROD0379,Skincare Product 379,Beauty & Personal Care,Skincare,Northstar,888.07,427.59,16-12-2021,0
+PROD0380,Haircare Product 380,Beauty & Personal Care,Haircare,NovaHome,514.67,222.02,09-06-2025,1
+PROD0381,Sportswear Product 381,Sports & Outdoors,Sportswear,BlueOrbit,427.3,212.79,18-02-2018,1
+PROD0382,Smart Home Product 382,Electronics,Smart Home,Northstar,928.93,699.32,08-09-2021,1
+PROD0383,Footwear Product 383,Fashion,Footwear,Velora,999.01,441.09,29-04-2018,0
+PROD0384,Skincare Product 384,Beauty & Personal Care,Skincare,Aster & Co,738.18,279.7,18-10-2019,1
+PROD0385,Footwear Product 385,Fashion,Footwear,UrbanLeaf,264.46,132.86,29-10-2018,1
+PROD0386,Outdoor Gear Product 386,Sports & Outdoors,Outdoor Gear,EverydayPlus,347.81,169.08,28-09-2023,1
+PROD0387,Bags Product 387,Fashion,Bags,BlueOrbit,196.63,90.24,08-04-2015,1
+PROD0388,Kitchenware Product 388,Home & Kitchen,Kitchenware,EverydayPlus,232.08,135.79,26-12-2016,1
+PROD0389,Smart Home Product 389,Electronics,Smart Home,Aster & Co,1057.7,799.63,17-09-2019,1
+PROD0390,Books Product 390,Books & Stationery,Books,NovaHome,376.74,173.05,13-01-2024,1
+PROD0391,Books Product 391,Books & Stationery,Books,NovaHome,232.27,102.94,24-12-2015,1
+PROD0392,Outdoor Gear Product 392,Sports & Outdoors,Outdoor Gear,EverydayPlus,495.91,273.41,06-12-2015,0
+PROD0393,Small Appliances Product 393,Home & Kitchen,Small Appliances,Northstar,180.36,111.02,14-03-2024,1
+PROD0394,Audio Product 394,Electronics,Audio,Aster & Co,306.02,220.26,18-07-2020,1
+PROD0395,Art Supplies Product 395,Books & Stationery,Art Supplies,PixelPeak,1899.08,1035.52,27-02-2016,1
+PROD0396,Sportswear Product 396,Sports & Outdoors,Sportswear,PixelPeak,150,71.53,26-09-2024,1
+PROD0397,Home Decor Product 397,Home & Kitchen,Home Decor,EverydayPlus,769.48,394.21,14-06-2024,1
+PROD0398,Smart Home Product 398,Electronics,Smart Home,Northstar,583.52,403.1,27-04-2025,1
+PROD0399,Cycling Product 399,Sports & Outdoors,Cycling,BrightNest,282.6,151.8,10-02-2024,1
+PROD0400,Books Product 400,Books & Stationery,Books,Aster & Co,154.32,69.98,19-02-2019,1
+PROD0401,Watches Product 401,Fashion,Watches,EverydayPlus,520.59,277.66,11-05-2017,1
+PROD0402,Kitchenware Product 402,Home & Kitchen,Kitchenware,BlueOrbit,568.91,290.75,03-11-2024,1
+PROD0403,Bags Product 403,Fashion,Bags,BrightNest,156.67,66.22,30-03-2025,1
+PROD0404,Bags Product 404,Fashion,Bags,UrbanLeaf,375.41,200.2,16-05-2016,1
+PROD0405,Footwear Product 405,Fashion,Footwear,UrbanLeaf,463.21,218.6,14-08-2020,1
+PROD0406,Footwear Product 406,Fashion,Footwear,EverydayPlus,325.32,142.36,29-04-2024,1
+PROD0407,Art Supplies Product 407,Books & Stationery,Art Supplies,CoreCraft,1125.36,499.49,16-11-2025,1
+PROD0408,Bags Product 408,Fashion,Bags,EverydayPlus,619.68,279.37,04-02-2020,1
+PROD0409,Sportswear Product 409,Sports & Outdoors,Sportswear,EverydayPlus,507.31,290.94,24-06-2022,1
+PROD0410,Art Supplies Product 410,Books & Stationery,Art Supplies,Aster & Co,939.08,520.14,07-10-2021,1
+PROD0411,Skincare Product 411,Beauty & Personal Care,Skincare,EverydayPlus,669.37,266.29,20-08-2019,1
+PROD0412,Home Decor Product 412,Home & Kitchen,Home Decor,CoreCraft,374.92,214.17,30-04-2025,1
+PROD0413,Office Supplies Product 413,Books & Stationery,Office Supplies,Aster & Co,165.13,85.41,03-02-2023,1
+PROD0414,Storage Product 414,Home & Kitchen,Storage,Northstar,549.12,307,29-06-2017,1
+PROD0415,Bags Product 415,Fashion,Bags,Velora,303.98,156.03,30-05-2019,1
+PROD0416,Mobile Accessories Product 416,Electronics,Mobile Accessories,UrbanLeaf,361.36,235.45,15-06-2020,1
+PROD0417,Office Supplies Product 417,Books & Stationery,Office Supplies,BlueOrbit,539.47,265.62,20-01-2016,1
+PROD0418,Kitchenware Product 418,Home & Kitchen,Kitchenware,EverydayPlus,1183.68,606.55,09-06-2024,1
+PROD0419,Storage Product 419,Home & Kitchen,Storage,EverydayPlus,193.03,103.25,01-07-2015,1
+PROD0420,Bags Product 420,Fashion,Bags,UrbanLeaf,467.91,251.23,01-12-2018,1
+PROD0421,Computing Product 421,Electronics,Computing,Northstar,518.48,364.39,28-08-2022,1
+PROD0422,Fitness Product 422,Sports & Outdoors,Fitness,Northstar,1508.66,812.09,06-11-2016,1
+PROD0423,Fragrance Product 423,Beauty & Personal Care,Fragrance,NovaHome,255.45,120.74,17-03-2019,1
+PROD0424,Computing Product 424,Electronics,Computing,PixelPeak,964.69,599.84,08-03-2019,1
+PROD0425,Small Appliances Product 425,Home & Kitchen,Small Appliances,Northstar,256.68,156.22,04-09-2017,1
+PROD0426,Watches Product 426,Fashion,Watches,Velora,495.23,228.41,26-10-2019,1
+PROD0427,Home Decor Product 427,Home & Kitchen,Home Decor,CoreCraft,700.27,398.73,01-04-2023,1
+PROD0428,Art Supplies Product 428,Books & Stationery,Art Supplies,Velora,162.48,82.2,24-03-2022,1
+PROD0429,Home Decor Product 429,Home & Kitchen,Home Decor,Velora,699.93,410.22,19-02-2025,1
+PROD0430,Learning Product 430,Books & Stationery,Learning,Aster & Co,391.04,214.34,06-01-2024,1
+PROD0431,Computing Product 431,Electronics,Computing,BrightNest,1123.48,765.89,08-09-2019,1
+PROD0432,Office Supplies Product 432,Books & Stationery,Office Supplies,NovaHome,525.79,291.42,16-05-2021,1
+PROD0433,Small Appliances Product 433,Home & Kitchen,Small Appliances,EverydayPlus,365.35,191.79,16-06-2022,1
+PROD0434,Clothing Product 434,Fashion,Clothing,BrightNest,828.5,411.87,14-04-2019,1
+PROD0435,Watches Product 435,Fashion,Watches,PixelPeak,699.09,313.78,08-08-2017,1
+PROD0436,Outdoor Gear Product 436,Sports & Outdoors,Outdoor Gear,BrightNest,150,81.33,08-08-2015,1
+PROD0437,Computing Product 437,Electronics,Computing,Aster & Co,150,101.25,21-01-2015,1
+PROD0438,Storage Product 438,Home & Kitchen,Storage,BlueOrbit,1879.53,1115.45,01-04-2018,0
+PROD0439,Skincare Product 439,Beauty & Personal Care,Skincare,BrightNest,849.97,404.39,10-05-2023,1
+PROD0440,Office Supplies Product 440,Books & Stationery,Office Supplies,UrbanLeaf,707.48,325.73,29-11-2024,0
+PROD0441,Small Appliances Product 441,Home & Kitchen,Small Appliances,Northstar,443.54,276.33,22-12-2020,1
+PROD0442,Audio Product 442,Electronics,Audio,PixelPeak,1619.53,1267.85,13-10-2022,1
+PROD0443,Footwear Product 443,Fashion,Footwear,EverydayPlus,229.1,121.71,21-07-2017,1
+PROD0444,Skincare Product 444,Beauty & Personal Care,Skincare,CoreCraft,153.95,62.97,05-04-2025,1
+PROD0445,Mobile Accessories Product 445,Electronics,Mobile Accessories,BlueOrbit,1154.76,720.01,11-07-2024,1
+PROD0446,Storage Product 446,Home & Kitchen,Storage,BlueOrbit,375.06,198.59,02-11-2015,1
+PROD0447,Fragrance Product 447,Beauty & Personal Care,Fragrance,UrbanLeaf,582.78,229.63,25-12-2024,1
+PROD0448,Fitness Product 448,Sports & Outdoors,Fitness,PixelPeak,1239.29,639.55,13-04-2017,1
+PROD0449,Computing Product 449,Electronics,Computing,Velora,376.95,292.01,02-12-2018,1
+PROD0450,Watches Product 450,Fashion,Watches,PixelPeak,1121.77,507.83,11-10-2022,1
+PROD0451,Skincare Product 451,Beauty & Personal Care,Skincare,BrightNest,150,64.69,24-03-2023,1
+PROD0452,Fragrance Product 452,Beauty & Personal Care,Fragrance,PixelPeak,150,61.43,28-02-2024,1
+PROD0453,Bags Product 453,Fashion,Bags,NovaHome,753.06,366.13,27-06-2025,0
+PROD0454,Clothing Product 454,Fashion,Clothing,Velora,260.32,115.73,21-09-2023,1
+PROD0455,Personal Care Product 455,Beauty & Personal Care,Personal Care,Aster & Co,176.5,76.87,09-06-2017,1
+PROD0456,Books Product 456,Books & Stationery,Books,Northstar,1565.43,749.84,23-02-2020,1
+PROD0457,Smart Home Product 457,Electronics,Smart Home,EverydayPlus,150,100.5,18-11-2025,0
+PROD0458,Audio Product 458,Electronics,Audio,EverydayPlus,479.09,345.5,27-05-2020,1
+PROD0459,Storage Product 459,Home & Kitchen,Storage,EverydayPlus,1701.5,1059.52,05-06-2021,1
+PROD0460,Sportswear Product 460,Sports & Outdoors,Sportswear,Aster & Co,361.96,203.09,21-12-2022,1
+PROD0461,Art Supplies Product 461,Books & Stationery,Art Supplies,NovaHome,323.63,160.05,09-11-2022,0
+PROD0462,Home Decor Product 462,Home & Kitchen,Home Decor,Northstar,431.84,256.55,02-02-2025,1
+PROD0463,Skincare Product 463,Beauty & Personal Care,Skincare,BrightNest,444.98,194.46,26-08-2015,1
+PROD0464,Bags Product 464,Fashion,Bags,NovaHome,594.24,272.9,08-06-2025,1
+PROD0465,Outdoor Gear Product 465,Sports & Outdoors,Outdoor Gear,NovaHome,1018.87,538.34,14-11-2020,1
+PROD0466,Fitness Product 466,Sports & Outdoors,Fitness,BlueOrbit,913.12,475.47,26-09-2018,1
+PROD0467,Learning Product 467,Books & Stationery,Learning,BrightNest,150,83.62,07-11-2016,1
+PROD0468,Home Decor Product 468,Home & Kitchen,Home Decor,EverydayPlus,175.94,110.35,30-06-2020,1
+PROD0469,Art Supplies Product 469,Books & Stationery,Art Supplies,CoreCraft,225.7,99.7,22-03-2021,1
+PROD0470,Home Decor Product 470,Home & Kitchen,Home Decor,NovaHome,898.67,519.38,24-12-2020,0
+PROD0471,Audio Product 471,Electronics,Audio,BlueOrbit,233.76,168.87,19-07-2024,1
+PROD0472,Books Product 472,Books & Stationery,Books,CoreCraft,680.54,340.65,23-06-2017,1
+PROD0473,Sportswear Product 473,Sports & Outdoors,Sportswear,PixelPeak,216.53,130.31,10-03-2015,1
+PROD0474,Audio Product 474,Electronics,Audio,BlueOrbit,687.75,528.33,14-03-2024,1
+PROD0475,Audio Product 475,Electronics,Audio,Northstar,287.01,203.07,18-03-2015,1
+PROD0476,Outdoor Gear Product 476,Sports & Outdoors,Outdoor Gear,Aster & Co,293.5,145.42,12-01-2017,1
+PROD0477,Fitness Product 477,Sports & Outdoors,Fitness,PixelPeak,150,84.4,30-03-2018,1
+PROD0478,Clothing Product 478,Fashion,Clothing,EverydayPlus,553.53,249.66,11-11-2024,1
+PROD0479,Mobile Accessories Product 479,Electronics,Mobile Accessories,PixelPeak,231.95,180.9,24-01-2022,1
+PROD0480,Cycling Product 480,Sports & Outdoors,Cycling,UrbanLeaf,248.21,133.33,29-06-2015,1
+PROD0481,Outdoor Gear Product 481,Sports & Outdoors,Outdoor Gear,Aster & Co,680.63,377.77,12-08-2025,1
+PROD0482,Smart Home Product 482,Electronics,Smart Home,Northstar,463.37,328.31,04-02-2019,1
+PROD0483,Cycling Product 483,Sports & Outdoors,Cycling,BrightNest,1265.99,710.58,27-06-2020,0
+PROD0484,Learning Product 484,Books & Stationery,Learning,BlueOrbit,653.48,351.78,03-03-2018,1
+PROD0485,Outdoor Gear Product 485,Sports & Outdoors,Outdoor Gear,Aster & Co,215.51,112.16,13-04-2022,1
+PROD0486,Personal Care Product 486,Beauty & Personal Care,Personal Care,Northstar,1261.33,599.14,23-07-2023,1
+PROD0487,Audio Product 487,Electronics,Audio,Velora,778.59,603.25,02-06-2023,1
+PROD0488,Mobile Accessories Product 488,Electronics,Mobile Accessories,PixelPeak,185.46,132.04,15-11-2023,1
+PROD0489,Fragrance Product 489,Beauty & Personal Care,Fragrance,Northstar,364.81,164.57,06-05-2021,1
+PROD0490,Footwear Product 490,Fashion,Footwear,UrbanLeaf,242.03,103.05,03-10-2020,1
+PROD0491,Bags Product 491,Fashion,Bags,UrbanLeaf,351.74,167.33,21-07-2025,1
+PROD0492,Clothing Product 492,Fashion,Clothing,NovaHome,1134.89,608.8,18-08-2022,1
+PROD0493,Learning Product 493,Books & Stationery,Learning,Aster & Co,297.12,131.72,12-01-2017,1
+PROD0494,Storage Product 494,Home & Kitchen,Storage,CoreCraft,235.64,130.59,04-07-2016,1
+PROD0495,Personal Care Product 495,Beauty & Personal Care,Personal Care,Northstar,1640.68,713.86,26-11-2025,1
+PROD0496,Fragrance Product 496,Beauty & Personal Care,Fragrance,NovaHome,150,67,18-03-2016,1
+PROD0497,Fitness Product 497,Sports & Outdoors,Fitness,Velora,508.59,289.08,09-06-2018,0
+PROD0498,Small Appliances Product 498,Home & Kitchen,Small Appliances,BlueOrbit,369.53,188.49,20-11-2017,1
+PROD0499,Books Product 499,Books & Stationery,Books,Velora,434.86,215.93,06-01-2023,1
+PROD0500,Fitness Product 500,Sports & Outdoors,Fitness,Aster & Co,439.51,253.8,14-12-2023,1
+PROD0501,Audio Product 501,Electronics,Audio,BrightNest,171.22,129.53,04-08-2023,1
+PROD0502,Audio Product 502,Electronics,Audio,CoreCraft,234.11,153.03,01-08-2022,1
+PROD0503,Watches Product 503,Fashion,Watches,BlueOrbit,198.01,85.81,02-02-2020,1
+PROD0504,Haircare Product 504,Beauty & Personal Care,Haircare,UrbanLeaf,205.7,87.48,29-08-2016,1
+PROD0505,Bags Product 505,Fashion,Bags,BlueOrbit,205.36,104.43,08-06-2015,1
+PROD0506,Mobile Accessories Product 506,Electronics,Mobile Accessories,UrbanLeaf,150.18,109.21,04-09-2023,1
+PROD0507,Personal Care Product 507,Beauty & Personal Care,Personal Care,Northstar,1290.4,582.45,16-02-2025,1
+PROD0508,Kitchenware Product 508,Home & Kitchen,Kitchenware,BlueOrbit,597.72,317.71,12-01-2025,1
+PROD0509,Cycling Product 509,Sports & Outdoors,Cycling,EverydayPlus,250.4,149.3,11-02-2019,1
+PROD0510,Audio Product 510,Electronics,Audio,BlueOrbit,260.1,194.39,29-01-2017,1
+PROD0511,Haircare Product 511,Beauty & Personal Care,Haircare,Aster & Co,1067.46,479.79,04-08-2015,1
+PROD0512,Footwear Product 512,Fashion,Footwear,NovaHome,150,73.24,07-08-2022,1
+PROD0513,Fragrance Product 513,Beauty & Personal Care,Fragrance,UrbanLeaf,1323.74,538.72,30-07-2023,1
+PROD0514,Bags Product 514,Fashion,Bags,CoreCraft,423.71,188.15,01-11-2025,1
+PROD0515,Home Decor Product 515,Home & Kitchen,Home Decor,BlueOrbit,940.88,594.94,06-06-2016,1
+PROD0516,Sportswear Product 516,Sports & Outdoors,Sportswear,BrightNest,543.25,275.62,11-11-2021,1
+PROD0517,Sportswear Product 517,Sports & Outdoors,Sportswear,BrightNest,641.31,335.72,17-01-2021,0
+PROD0518,Learning Product 518,Books & Stationery,Learning,Velora,311.3,162.77,05-09-2018,1
+PROD0519,Books Product 519,Books & Stationery,Books,EverydayPlus,316.27,150.37,03-03-2016,1
+PROD0520,Office Supplies Product 520,Books & Stationery,Office Supplies,PixelPeak,233.45,107.81,29-05-2022,1
+PROD0521,Bags Product 521,Fashion,Bags,BrightNest,259.84,117.52,07-11-2017,1
+PROD0522,Learning Product 522,Books & Stationery,Learning,CoreCraft,538.1,270.15,08-10-2025,1
+PROD0523,Learning Product 523,Books & Stationery,Learning,NovaHome,1336.27,743.28,01-07-2017,1
+PROD0524,Bags Product 524,Fashion,Bags,CoreCraft,222.91,106.62,28-01-2025,1
+PROD0525,Art Supplies Product 525,Books & Stationery,Art Supplies,Aster & Co,289.93,154.21,28-10-2021,1
+PROD0526,Fitness Product 526,Sports & Outdoors,Fitness,CoreCraft,504.46,254.81,22-06-2018,1
+PROD0527,Cycling Product 527,Sports & Outdoors,Cycling,UrbanLeaf,411.44,205.32,06-10-2025,1
+PROD0528,Fitness Product 528,Sports & Outdoors,Fitness,CoreCraft,150,78.74,22-09-2022,1
+PROD0529,Skincare Product 529,Beauty & Personal Care,Skincare,UrbanLeaf,150,64.4,28-10-2015,1
+PROD0530,Smart Home Product 530,Electronics,Smart Home,Velora,653.48,420.54,09-03-2025,1
+PROD0531,Small Appliances Product 531,Home & Kitchen,Small Appliances,UrbanLeaf,500.32,286.92,24-12-2021,1
+PROD0532,Footwear Product 532,Fashion,Footwear,Velora,1005.55,530.33,09-09-2016,0
+PROD0533,Cycling Product 533,Sports & Outdoors,Cycling,NovaHome,234.78,122.75,10-12-2015,1
+PROD0534,Personal Care Product 534,Beauty & Personal Care,Personal Care,BlueOrbit,332.27,132.58,07-08-2019,1
+PROD0535,Clothing Product 535,Fashion,Clothing,EverydayPlus,152.34,67.26,07-11-2016,1
+PROD0536,Mobile Accessories Product 536,Electronics,Mobile Accessories,NovaHome,482.73,323.43,03-07-2023,1
+PROD0537,Footwear Product 537,Fashion,Footwear,Velora,665.31,339.87,20-09-2022,1
+PROD0538,Clothing Product 538,Fashion,Clothing,BrightNest,316.41,165.16,02-06-2022,1
+PROD0539,Clothing Product 539,Fashion,Clothing,Velora,622.74,284.46,28-10-2024,1
+PROD0540,Fragrance Product 540,Beauty & Personal Care,Fragrance,EverydayPlus,488.22,230.2,21-09-2022,1
+PROD0541,Office Supplies Product 541,Books & Stationery,Office Supplies,Aster & Co,739.18,367.06,14-08-2021,1
+PROD0542,Outdoor Gear Product 542,Sports & Outdoors,Outdoor Gear,CoreCraft,227.38,132.77,04-07-2015,1
+PROD0543,Footwear Product 543,Fashion,Footwear,BrightNest,150,64.44,21-11-2017,1
+PROD0544,Footwear Product 544,Fashion,Footwear,UrbanLeaf,365.42,187.24,21-11-2024,1
+PROD0545,Art Supplies Product 545,Books & Stationery,Art Supplies,NovaHome,382.32,169.92,16-09-2021,1
+PROD0546,Books Product 546,Books & Stationery,Books,BlueOrbit,735.39,375.39,04-11-2020,1
+PROD0547,Skincare Product 547,Beauty & Personal Care,Skincare,EverydayPlus,689.69,313.33,21-02-2020,1
+PROD0548,Small Appliances Product 548,Home & Kitchen,Small Appliances,BlueOrbit,1537.92,974.25,17-07-2021,1
+PROD0549,Mobile Accessories Product 549,Electronics,Mobile Accessories,NovaHome,312.33,228.89,13-02-2025,1
+PROD0550,Mobile Accessories Product 550,Electronics,Mobile Accessories,Aster & Co,387.36,264.36,10-04-2015,1
+PROD0551,Cycling Product 551,Sports & Outdoors,Cycling,CoreCraft,210.95,126.68,15-03-2015,1
+PROD0552,Haircare Product 552,Beauty & Personal Care,Haircare,Northstar,194.54,80.14,08-03-2023,1
+PROD0553,Audio Product 553,Electronics,Audio,EverydayPlus,170.83,120.63,13-08-2017,0
+PROD0554,Smart Home Product 554,Electronics,Smart Home,BlueOrbit,234.76,171.32,04-07-2015,1
+PROD0555,Cycling Product 555,Sports & Outdoors,Cycling,Velora,262.48,144.93,18-10-2015,1
+PROD0556,Bags Product 556,Fashion,Bags,Northstar,434.81,199.17,25-05-2019,1
+PROD0557,Mobile Accessories Product 557,Electronics,Mobile Accessories,NovaHome,283.94,189.73,30-11-2024,1
+PROD0558,Storage Product 558,Home & Kitchen,Storage,Aster & Co,233.08,132.12,07-06-2021,1
+PROD0559,Footwear Product 559,Fashion,Footwear,BlueOrbit,680.63,334.92,17-02-2015,1
+PROD0560,Footwear Product 560,Fashion,Footwear,Northstar,574.18,251.16,06-10-2019,1
+PROD0561,Art Supplies Product 561,Books & Stationery,Art Supplies,CoreCraft,186.93,104.32,08-03-2020,1
+PROD0562,Office Supplies Product 562,Books & Stationery,Office Supplies,EverydayPlus,583.29,265.13,19-10-2024,1
+PROD0563,Books Product 563,Books & Stationery,Books,BlueOrbit,552.89,277.39,31-01-2016,1
+PROD0564,Learning Product 564,Books & Stationery,Learning,Velora,882.11,442.65,29-05-2017,1
+PROD0565,Smart Home Product 565,Electronics,Smart Home,Aster & Co,1537.2,1021.87,15-12-2022,1
+PROD0566,Watches Product 566,Fashion,Watches,BrightNest,165.92,80.87,22-02-2024,1
+PROD0567,Learning Product 567,Books & Stationery,Learning,UrbanLeaf,458.9,202.32,23-09-2024,0
+PROD0568,Skincare Product 568,Beauty & Personal Care,Skincare,Northstar,235.04,111.82,20-07-2023,1
+PROD0569,Fitness Product 569,Sports & Outdoors,Fitness,Northstar,523.98,253.23,23-08-2016,1
+PROD0570,Fragrance Product 570,Beauty & Personal Care,Fragrance,PixelPeak,190.91,91.48,30-04-2023,1
+PROD0571,Books Product 571,Books & Stationery,Books,PixelPeak,288.66,141.12,06-06-2017,1
+PROD0572,Sportswear Product 572,Sports & Outdoors,Sportswear,Northstar,895.09,496.38,15-05-2019,1
+PROD0573,Outdoor Gear Product 573,Sports & Outdoors,Outdoor Gear,BrightNest,552.84,321.59,14-09-2015,1
+PROD0574,Kitchenware Product 574,Home & Kitchen,Kitchenware,UrbanLeaf,150,92.17,08-04-2015,1
+PROD0575,Watches Product 575,Fashion,Watches,CoreCraft,1000.99,478.22,30-09-2023,1
+PROD0576,Mobile Accessories Product 576,Electronics,Mobile Accessories,BlueOrbit,494.04,369.17,19-07-2020,1
+PROD0577,Cycling Product 577,Sports & Outdoors,Cycling,PixelPeak,452.88,260.09,16-06-2015,0
+PROD0578,Personal Care Product 578,Beauty & Personal Care,Personal Care,Aster & Co,219.82,84.34,28-08-2025,1
+PROD0579,Cycling Product 579,Sports & Outdoors,Cycling,Velora,446.04,218.84,18-07-2024,0
+PROD0580,Books Product 580,Books & Stationery,Books,Velora,425.37,231.52,20-12-2019,1
+PROD0581,Small Appliances Product 581,Home & Kitchen,Small Appliances,PixelPeak,420.28,239.36,05-05-2021,1
+PROD0582,Mobile Accessories Product 582,Electronics,Mobile Accessories,Velora,150,100.56,27-04-2018,1
+PROD0583,Art Supplies Product 583,Books & Stationery,Art Supplies,BlueOrbit,523.68,256.42,07-11-2017,1
+PROD0584,Footwear Product 584,Fashion,Footwear,Aster & Co,392.69,184.41,19-08-2015,1
+PROD0585,Mobile Accessories Product 585,Electronics,Mobile Accessories,PixelPeak,654.68,440.57,07-05-2018,1
+PROD0586,Sportswear Product 586,Sports & Outdoors,Sportswear,Aster & Co,150,83.9,17-06-2025,1
+PROD0587,Books Product 587,Books & Stationery,Books,BrightNest,150,76.19,07-06-2016,1
+PROD0588,Audio Product 588,Electronics,Audio,UrbanLeaf,578.56,384.64,28-10-2016,1
+PROD0589,Small Appliances Product 589,Home & Kitchen,Small Appliances,BlueOrbit,398.38,200.28,19-03-2025,1
+PROD0590,Bags Product 590,Fashion,Bags,NovaHome,588.03,269.61,19-05-2022,1
+PROD0591,Bags Product 591,Fashion,Bags,Velora,1305.08,638.43,19-11-2018,1
+PROD0592,Cycling Product 592,Sports & Outdoors,Cycling,Aster & Co,2073.17,1152.63,22-09-2015,1
+PROD0593,Personal Care Product 593,Beauty & Personal Care,Personal Care,Aster & Co,153.18,59.3,10-10-2022,1
+PROD0594,Storage Product 594,Home & Kitchen,Storage,UrbanLeaf,162.4,96.14,06-05-2019,1
+PROD0595,Books Product 595,Books & Stationery,Books,CoreCraft,453.21,222.36,25-05-2020,1
+PROD0596,Sportswear Product 596,Sports & Outdoors,Sportswear,Northstar,297.89,156.92,27-02-2022,1
+PROD0597,Watches Product 597,Fashion,Watches,Aster & Co,892.52,427.53,03-05-2021,1
+PROD0598,Books Product 598,Books & Stationery,Books,CoreCraft,283.49,132.56,12-07-2015,1
+PROD0599,Sportswear Product 599,Sports & Outdoors,Sportswear,Northstar,181,93.87,21-10-2019,1
+PROD0600,Fitness Product 600,Sports & Outdoors,Fitness,BlueOrbit,241.48,139.84,10-07-2023,1
+PROD0601,Learning Product 601,Books & Stationery,Learning,PixelPeak,191.66,104.92,16-11-2017,1
+PROD0602,Haircare Product 602,Beauty & Personal Care,Haircare,CoreCraft,241.25,114.44,13-12-2023,0
+PROD0603,Home Decor Product 603,Home & Kitchen,Home Decor,EverydayPlus,1021.95,571.61,15-07-2016,1
+PROD0604,Mobile Accessories Product 604,Electronics,Mobile Accessories,Northstar,402.41,284.47,27-03-2017,1
+PROD0605,Office Supplies Product 605,Books & Stationery,Office Supplies,CoreCraft,282.29,137.98,04-06-2020,1
+PROD0606,Fragrance Product 606,Beauty & Personal Care,Fragrance,CoreCraft,909.34,353.72,31-07-2018,1
+PROD0607,Office Supplies Product 607,Books & Stationery,Office Supplies,CoreCraft,154.3,68.7,19-09-2019,1
+PROD0608,Sportswear Product 608,Sports & Outdoors,Sportswear,BlueOrbit,392.65,232.03,18-12-2023,1
+PROD0609,Small Appliances Product 609,Home & Kitchen,Small Appliances,PixelPeak,299.75,167.83,21-06-2021,1
+PROD0610,Books Product 610,Books & Stationery,Books,Velora,332.1,150.44,05-07-2023,1
+PROD0611,Cycling Product 611,Sports & Outdoors,Cycling,CoreCraft,165.5,84.04,18-08-2019,1
+PROD0612,Mobile Accessories Product 612,Electronics,Mobile Accessories,Aster & Co,585.25,440.31,08-06-2015,1
+PROD0613,Outdoor Gear Product 613,Sports & Outdoors,Outdoor Gear,PixelPeak,292.89,162.63,27-05-2020,0
+PROD0614,Small Appliances Product 614,Home & Kitchen,Small Appliances,Northstar,247.23,141.68,25-09-2021,1
+PROD0615,Art Supplies Product 615,Books & Stationery,Art Supplies,BrightNest,485.16,247.69,13-08-2025,1
+PROD0616,Footwear Product 616,Fashion,Footwear,UrbanLeaf,317.38,139.88,03-04-2024,0
+PROD0617,Smart Home Product 617,Electronics,Smart Home,EverydayPlus,826.91,549.67,06-03-2023,1
+PROD0618,Haircare Product 618,Beauty & Personal Care,Haircare,NovaHome,2084.73,965.68,04-01-2021,1
+PROD0619,Haircare Product 619,Beauty & Personal Care,Haircare,PixelPeak,475.99,217.15,04-09-2024,1
+PROD0620,Mobile Accessories Product 620,Electronics,Mobile Accessories,BrightNest,150,114.79,24-09-2022,1
+PROD0621,Fitness Product 621,Sports & Outdoors,Fitness,Northstar,305.23,160.94,18-12-2024,1
+PROD0622,Home Decor Product 622,Home & Kitchen,Home Decor,PixelPeak,984.07,598.03,25-04-2025,0
+PROD0623,Smart Home Product 623,Electronics,Smart Home,UrbanLeaf,377.12,262.74,15-11-2020,1
+PROD0624,Home Decor Product 624,Home & Kitchen,Home Decor,Aster & Co,454.16,271.85,05-04-2019,1
+PROD0625,Watches Product 625,Fashion,Watches,NovaHome,150,79.01,24-12-2020,1
+PROD0626,Books Product 626,Books & Stationery,Books,BlueOrbit,210.79,114.98,10-01-2015,0
+PROD0627,Watches Product 627,Fashion,Watches,UrbanLeaf,574.05,254.05,20-12-2018,1
+PROD0628,Small Appliances Product 628,Home & Kitchen,Small Appliances,PixelPeak,363.34,203.02,20-02-2025,1
+PROD0629,Learning Product 629,Books & Stationery,Learning,NovaHome,981.58,486.85,17-01-2020,1
+PROD0630,Books Product 630,Books & Stationery,Books,EverydayPlus,325.63,166.45,25-03-2021,1
+PROD0631,Outdoor Gear Product 631,Sports & Outdoors,Outdoor Gear,CoreCraft,1368.62,726.93,02-01-2019,1
+PROD0632,Clothing Product 632,Fashion,Clothing,Velora,370.77,196.69,07-05-2020,1
+PROD0633,Books Product 633,Books & Stationery,Books,Northstar,196.69,98.75,18-11-2016,1
+PROD0634,Office Supplies Product 634,Books & Stationery,Office Supplies,CoreCraft,286.67,133.32,28-09-2017,1
+PROD0635,Kitchenware Product 635,Home & Kitchen,Kitchenware,Velora,214.48,132.33,23-03-2024,1
+PROD0636,Mobile Accessories Product 636,Electronics,Mobile Accessories,EverydayPlus,400.41,261.55,21-12-2015,1
+PROD0637,Office Supplies Product 637,Books & Stationery,Office Supplies,PixelPeak,808.96,399.38,19-08-2015,1
+PROD0638,Outdoor Gear Product 638,Sports & Outdoors,Outdoor Gear,UrbanLeaf,649.72,315.8,28-03-2017,1
+PROD0639,Learning Product 639,Books & Stationery,Learning,CoreCraft,2068.64,1021.45,27-12-2023,1
+PROD0640,Home Decor Product 640,Home & Kitchen,Home Decor,UrbanLeaf,691.49,382.48,27-12-2016,1
+PROD0641,Learning Product 641,Books & Stationery,Learning,Velora,817.29,438.29,16-07-2023,1
+PROD0642,Cycling Product 642,Sports & Outdoors,Cycling,Velora,428.18,224.78,16-02-2015,1
+PROD0643,Kitchenware Product 643,Home & Kitchen,Kitchenware,Velora,150,82.42,22-06-2018,1
+PROD0644,Footwear Product 644,Fashion,Footwear,Northstar,209.95,102.91,01-06-2023,1
+PROD0645,Art Supplies Product 645,Books & Stationery,Art Supplies,Northstar,389.81,191.01,22-12-2024,1
+PROD0646,Storage Product 646,Home & Kitchen,Storage,Velora,464.26,234.64,26-11-2017,1
+PROD0647,Clothing Product 647,Fashion,Clothing,BlueOrbit,150,79.45,29-11-2016,1
+PROD0648,Office Supplies Product 648,Books & Stationery,Office Supplies,EverydayPlus,368.44,196.44,21-09-2024,1
+PROD0649,Smart Home Product 649,Electronics,Smart Home,UrbanLeaf,1827.8,1302.84,12-03-2017,1
+PROD0650,Haircare Product 650,Beauty & Personal Care,Haircare,UrbanLeaf,555.18,258.63,22-04-2024,1
+PROD0651,Mobile Accessories Product 651,Electronics,Mobile Accessories,UrbanLeaf,371.47,262.74,16-02-2021,1
+PROD0652,Footwear Product 652,Fashion,Footwear,BlueOrbit,353.83,178.2,29-05-2023,1
+PROD0653,Learning Product 653,Books & Stationery,Learning,Aster & Co,654.88,288.98,20-09-2016,1
+PROD0654,Mobile Accessories Product 654,Electronics,Mobile Accessories,CoreCraft,521.53,370.75,17-12-2019,1
+PROD0655,Smart Home Product 655,Electronics,Smart Home,PixelPeak,655.04,502.29,26-09-2019,1
+PROD0656,Home Decor Product 656,Home & Kitchen,Home Decor,CoreCraft,150,79.9,20-03-2023,1
+PROD0657,Personal Care Product 657,Beauty & Personal Care,Personal Care,Northstar,522.55,204.77,03-08-2018,1
+PROD0658,Bags Product 658,Fashion,Bags,CoreCraft,360.05,155.64,21-02-2019,1
+PROD0659,Sportswear Product 659,Sports & Outdoors,Sportswear,Northstar,959.79,507.86,26-07-2018,1
+PROD0660,Fragrance Product 660,Beauty & Personal Care,Fragrance,Aster & Co,593.16,271.65,10-02-2023,1
+PROD0661,Sportswear Product 661,Sports & Outdoors,Sportswear,Aster & Co,395.18,199.02,01-08-2024,1
+PROD0662,Footwear Product 662,Fashion,Footwear,NovaHome,214.67,95.22,22-01-2018,1
+PROD0663,Learning Product 663,Books & Stationery,Learning,Northstar,578.31,259.42,02-04-2021,1
+PROD0664,Small Appliances Product 664,Home & Kitchen,Small Appliances,EverydayPlus,251.59,133.1,08-03-2024,1
+PROD0665,Office Supplies Product 665,Books & Stationery,Office Supplies,Aster & Co,317.84,154.83,20-09-2024,1
+PROD0666,Smart Home Product 666,Electronics,Smart Home,BlueOrbit,159.26,112.48,28-01-2023,1
+PROD0667,Haircare Product 667,Beauty & Personal Care,Haircare,BlueOrbit,346.58,157.87,20-03-2016,1
+PROD0668,Audio Product 668,Electronics,Audio,PixelPeak,355.57,222.89,14-07-2019,1
+PROD0669,Audio Product 669,Electronics,Audio,NovaHome,901.7,569.4,09-07-2016,1
+PROD0670,Personal Care Product 670,Beauty & Personal Care,Personal Care,EverydayPlus,150,69.52,03-11-2022,1
+PROD0671,Bags Product 671,Fashion,Bags,BlueOrbit,1246.33,662.74,23-10-2017,1
+PROD0672,Fragrance Product 672,Beauty & Personal Care,Fragrance,UrbanLeaf,2428.81,1159.7,01-04-2019,1
+PROD0673,Fitness Product 673,Sports & Outdoors,Fitness,BlueOrbit,488.45,234.72,06-04-2016,1
+PROD0674,Smart Home Product 674,Electronics,Smart Home,Northstar,2380.26,1697.54,17-10-2019,1
+PROD0675,Clothing Product 675,Fashion,Clothing,PixelPeak,826.62,395.5,18-12-2015,1
+PROD0676,Books Product 676,Books & Stationery,Books,EverydayPlus,453.86,211.65,29-12-2022,1
+PROD0677,Watches Product 677,Fashion,Watches,PixelPeak,607.6,319.32,15-06-2015,1
+PROD0678,Audio Product 678,Electronics,Audio,Aster & Co,581.82,443.78,07-11-2023,1
+PROD0679,Footwear Product 679,Fashion,Footwear,Northstar,1159.14,552.41,13-06-2022,1
+PROD0680,Storage Product 680,Home & Kitchen,Storage,PixelPeak,281.52,142.23,27-11-2016,1
+PROD0681,Haircare Product 681,Beauty & Personal Care,Haircare,Velora,895.06,370.55,05-11-2025,1
+PROD0682,Audio Product 682,Electronics,Audio,Velora,608.03,418.64,24-01-2017,1
+PROD0683,Sportswear Product 683,Sports & Outdoors,Sportswear,Aster & Co,282.86,152.46,07-09-2017,1
+PROD0684,Fragrance Product 684,Beauty & Personal Care,Fragrance,EverydayPlus,1223.83,580.39,29-06-2020,1
+PROD0685,Outdoor Gear Product 685,Sports & Outdoors,Outdoor Gear,NovaHome,188.82,98,20-07-2021,1
+PROD0686,Bags Product 686,Fashion,Bags,BrightNest,693.8,332.99,09-01-2016,1
+PROD0687,Fitness Product 687,Sports & Outdoors,Fitness,NovaHome,422.52,215.44,20-06-2022,0
+PROD0688,Kitchenware Product 688,Home & Kitchen,Kitchenware,NovaHome,424.06,220.13,24-12-2018,1
+PROD0689,Art Supplies Product 689,Books & Stationery,Art Supplies,EverydayPlus,281.03,149.71,26-01-2015,1
+PROD0690,Outdoor Gear Product 690,Sports & Outdoors,Outdoor Gear,Northstar,297.55,143.46,31-12-2024,1
+PROD0691,Sportswear Product 691,Sports & Outdoors,Sportswear,BrightNest,513.67,284.35,14-10-2025,1
+PROD0692,Art Supplies Product 692,Books & Stationery,Art Supplies,Aster & Co,153.58,67.8,09-11-2024,1
+PROD0693,Fragrance Product 693,Beauty & Personal Care,Fragrance,BrightNest,555.1,215.74,09-10-2023,1
+PROD0694,Kitchenware Product 694,Home & Kitchen,Kitchenware,CoreCraft,326.92,181.77,12-09-2020,1
+PROD0695,Kitchenware Product 695,Home & Kitchen,Kitchenware,NovaHome,277.19,173.82,22-07-2015,1
+PROD0696,Learning Product 696,Books & Stationery,Learning,CoreCraft,178.61,81.65,30-11-2024,1
+PROD0697,Footwear Product 697,Fashion,Footwear,Aster & Co,665.56,332.64,26-03-2018,1
+PROD0698,Storage Product 698,Home & Kitchen,Storage,CoreCraft,387.9,196.26,29-04-2024,1
+PROD0699,Art Supplies Product 699,Books & Stationery,Art Supplies,Northstar,382.63,177.63,05-05-2024,1
+PROD0700,Small Appliances Product 700,Home & Kitchen,Small Appliances,BrightNest,336.71,176.25,04-08-2015,1
