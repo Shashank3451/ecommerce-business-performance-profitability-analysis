@@ -91,7 +91,10 @@ directly into Snowflake cloud storage.
 • Predictive Analytics: Leverage Snowflake ML functions or Python forecasting models to predict product
 inventory stockout thresholds.
 
-## Author & Contact
--• Name: Shashank Mishra 
--• LinkedIn: linkedin.com/in/shashank-mishra-73b949237 
--• GitHub: https://github.com/Shashank3451
+## ## Author & Contact
+
+*   *Name:* Shashank Mishra
+
+*   *LinkedIn:* [://linkedin.com](https://://linkedin.com)
+
+*   *GitHub:* [https://github.com](https://github.com)
