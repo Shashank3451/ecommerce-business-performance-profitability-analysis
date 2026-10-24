@@ -36,6 +36,49 @@ Common Table Expressions - CTEs).
 • Data Visualization & Analytics: Power BI Desktop (Star Schema Modeling, Custom DAX Calculations,
 Executive KPI Cards, Multi-Page Navigation).
 
+## 🔄 Data Pipeline Workflow & Architecture
+
+```mermaid
+graph LR
+    A[(project-data)] -->|COPY INTO| B[❄️ Snowflake Warehouse]
+    B -->|DDL Setup| C[snowflake-architecture]
+    B -->|Analytical Queries & CTEs| D[sql-queries-and-business-questions]
+    D -->|Data Modeling| E[📊 Power BI Layer]
+    E -->|Visualizations & KPIs| F[dashboard-screenshots]
+    F -->|Data Storytelling| G[💡 Business Insights]
+
+    style B fill:#29B6F6,stroke:#01579B,stroke-width:2px
+    style E fill:#FBC02D,stroke:#F57F17,stroke-width:2px
+    style G fill:#66BB6A,stroke:#1B5E20,stroke-width:2px
+
+## 📂 Repository Architecture & File Structure
+This repository is organized into distinct layers reflecting the end-to-end data pipeline lifecycle, from raw data to cloud warehousing, analytical transformations, and business intelligence reporting.
+
+text
+📂 ecommerce-business-performance-profitability-analysis
+ ├── 📂 project-data/                          # Raw E-commerce Dataset (Fact & Dimension tables)
+ │    ├── 📜 Dim_Customer.csv
+ │    ├── 📜 Dim_Date.csv
+ │    ├── 📜 Dim_Order.csv
+ │    ├── 📜 Dim_Product.csv
+ │    └── 📜 Fact_Order_Items.csv
+ ├── 📂 snowflake-architecture/                # Cloud Data Warehousing & Data Ingestion
+ │    ├── 📜 Create_Ecommerce_Analytics_DB.sql # Database, Schema, and Table DDL Layouts
+ │    ├── 📜 Insert_Data_from_Stage.sql        # Staging, File Formats, and COPY INTO queries
+ │    └── 📜 README.md                         # Warehousing sizing & ETL pipeline documentation
+ ├── 📂 sql-queries-and-business-questions/    # Advanced Analytics & Data Transformations
+ │    ├── 📜 SQL_Queries_Analysis.sql          # Business KPIs, Window Functions, and CTEs
+ │    └── 📜 README.md                         # Deep dive into SQL optimization logic
+ ├── 📂 power-bi/                              # Data Visualization & Reporting Layer
+ │    ├── 📜 PBI_SNOWFLAKE_PROJECT.pbix        # Interactive Power BI Dashboard file
+ │    └── 📜 README.md                         # Data Model details (Star Schema) & DAX Measures
+ ├── 📂 dashboard-screenshots/                 # Visual Evidence of the Project
+ │    ├── 📜 PBI_Dashboard_Project.png
+ │    └── 📜 PBI_Dashboard_Project_Page_2.png
+ ├── 📂 business-insights-and-recommendations/ # Strategic Insights for Business Stakeholders
+ │    └── 📜 README.md                         # Executive Summary, Profitability Analysis & Actionable Advice
+ └── 📜 README.md                              # Main Project Landing Page (This File)
+
 ## Methods & Pipeline Workflow
 1. Cloud Data Ingestion: Processed operational records by hosting data landing zones inside Snowflake
 Named Internal Stages (@ecommerce_stage).
@@ -70,13 +113,10 @@ Payment Methods, Age Groups, and high-margin product listings.
 ![Customer & Product Analysis Dashboard](dashboard-screenshorts/PBI_Dashboard_Project_Page_2.png)
 
 ## How to Run This Project
-1. Snowflake DDL Execution: Run the schema configuration queries found inside
-1-Snowflake-Architecture/snowflake_setup.sql.
-2. Database Pipeline Launch: Run the calculation logic scripts stored inside
-2-SQL-Queries/business_questions.sql.
-3. Power BI Report Inspection: Open the executive report file 
-3-PowerBI-Dashboard/dashboard_visual.pbix inside Power BI Desktop to interact with live panels.
-
+1. *Snowflake DDL Execution:* Run the schema configuration queries found inside snowflake-architecture/Create_Ecommerce_Analytics_DB.sql.
+2. *Database Pipeline Launch:* Run the calculation logic scripts stored inside sql-queries-and-business-questions/SQL_Queries_Analysis.sql.
+3. *Power BI Report Inspection:* Open the interactive report file power-bi/PBI_SNOWFLAKE_PROJECT.pbix inside Power BI Desktop to interact with live panels.
+   
 ## Results & Conclusion
 The dashboard successfully bridges raw e-commerce operations with administrative visualization. The high 39.69%
 profit margin indicates solid overall health, but the sharp dependency on the 18-24 age group highlights areas where
