@@ -95,6 +95,6 @@ inventory stockout thresholds.
 
 *   *Name:* Shashank Mishra
 
-*   *LinkedIn:* [://linkedin.com](https://://linkedin.com)
+*   *LinkedIn:* (http://linkedin.com/in/shashank-mishra-73b949237)
 
-*   *GitHub:* [https://github.com](https://github.com)
+*   *GitHub:* (https://github.com/Shashank3451)
