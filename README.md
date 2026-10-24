@@ -58,12 +58,15 @@ item ranks with a staggering net profit of $640.10K.
 
 ## Dashboard / Model Output Preview
 The Power BI executive framework contains highly advanced multi-page analytics:
+
 • Page 1: Executive Overview: Tracks macro metrics, Current vs Previous Year comparisons, and Monthly
 revenue patterns.
+
 ![Executive Overview Dashboard](dashboard-screenshorts/PBI_Dashboard_Project.png)
 
 • Page 2: Customer & Product Analysis: Dynamic slice-and-dice panels filtering transactions by Gender,
 Payment Methods, Age Groups, and high-margin product listings.
+
 ![Customer & Product Analysis Dashboard](dashboard-screenshorts/PBI_Dashboard_Project_Page_2.png)
 
 ## How to Run This Project
@@ -90,5 +93,7 @@ inventory stockout thresholds.
 
 ## Author & Contact
 • Name: Shashank Mishra 
+
 • LinkedIn: linkedin.com/in/shashank-mishra-73b949237 
+
 • GitHub: https://github.com/Shashank3451
