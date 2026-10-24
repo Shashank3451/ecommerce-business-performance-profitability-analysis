@@ -47,9 +47,9 @@ graph LR
     E -->|Visualizations & KPIs| F[dashboard-screenshots]
     F -->|Data Storytelling| G[💡 Business Insights]
 
-    style B fill:#29B6F6,stroke:#01579B,stroke-width:2px
-    style E fill:#FBC02D,stroke:#F57F17,stroke-width:2px
-    style G fill:#66BB6A,stroke:#1B5E20,stroke-width:2px
+style B fill:#29B6F6,stroke:#01579B,stroke-width:2px
+style E fill:#FBC02D,stroke:#F57F17,stroke-width:2px
+style G fill:#66BB6A,stroke:#1B5E20,stroke-width:2px
 
 ## 📂 Repository Architecture & File Structure
 This repository is organized into distinct layers reflecting the end-to-end data pipeline lifecycle, from raw data to cloud warehousing, analytical transformations, and business intelligence reporting.
@@ -77,7 +77,7 @@ text
  │    └── 📜 PBI_Dashboard_Project_Page_2.png
  ├── 📂 business-insights-and-recommendations/ # Strategic Insights for Business Stakeholders
  │    └── 📜 README.md                         # Executive Summary, Profitability Analysis & Actionable Advice
- └── 📜 README.md                              # Main Project Landing Page (This File)
+ └── 📜 README.md                              # Main Project Landing Page (This File).
 
 ## Methods & Pipeline Workflow
 1. Cloud Data Ingestion: Processed operational records by hosting data landing zones inside Snowflake
