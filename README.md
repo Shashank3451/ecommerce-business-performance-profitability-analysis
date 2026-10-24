@@ -93,7 +93,5 @@ inventory stockout thresholds.
 
 ## Author & Contact
 • Name: Shashank Mishra 
-
 • LinkedIn: linkedin.com/in/shashank-mishra-73b949237 
-
 • GitHub: https://github.com/Shashank3451
