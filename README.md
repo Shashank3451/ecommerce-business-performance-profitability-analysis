@@ -70,7 +70,7 @@ This repository is organized into distinct layers reflecting the end-to-end data
 ```
 
 ## Methods & Pipeline Workflow
-1. **Cloud Data Ingestion:** Processed operational records by hosting data landing zones inside Snowflake Named Internal Stages (`@ecommerce_stage`).
+1. **Cloud Data Ingestion:** Processed operational records by hosting data landing zones inside Snowflake Named Internal Stages (`@ECOM_STAGE`).
 2. **Schema Engineering:** Migrated raw unorganized values into a dedicated analytics platform built upon decoupled Fact and Dimension schemas.
 3. **Analytical Operations:** Engineered 5-8 complex production-ready SQL scripts utilizing partitions and CTEs to safely deduce high-level performance numbers.
 4. **Data Model Connection:** Established an optimized import layer linking Snowflake schemas securely into the Power BI ecosystem.
@@ -90,7 +90,7 @@ The Power BI executive framework contains highly advanced multi-page analytics:
 
 * **Page 2: Customer & Product Analysis:** Dynamic slice-and-dice panels filtering transactions by Gender, Payment Methods, Age Groups, and high-margin product listings.
 
-![Customer & Product Analysis Dashboard](dashboard-screenshorts/PBI_Dashboard_Project_Page_2.png)
+![Customer & Product Analysis Dashboard](dashboard-screenshorts/PBI_Dashboard_Project_Page_2.png)........
 
 ## How to Run This Project
 1. **Snowflake DDL Execution:** Run the schema configuration queries found inside `snowflake-architecture/Create_Ecommerce_Analytics_DB.sql`.
