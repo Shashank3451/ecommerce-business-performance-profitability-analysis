@@ -86,11 +86,11 @@ The Power BI executive framework contains highly advanced multi-page analytics:
 
 * **Page 1: Executive Overview:** Tracks macro metrics, Current vs Previous Year comparisons, and Monthly revenue patterns.
 
-![Executive Overview Dashboard](dashboard-screenshorts/PBI_Dashboard_Project.png)
+![Executive Overview Dashboard](dashboard-screenshots/PBI_Dashboard_Project.png)
 
 * **Page 2: Customer & Product Analysis:** Dynamic slice-and-dice panels filtering transactions by Gender, Payment Methods, Age Groups, and high-margin product listings.
 
-![Customer & Product Analysis Dashboard](dashboard-screenshorts/PBI_Dashboard_Project_Page_2.png)........
+![Customer & Product Analysis Dashboard](dashboard-screenshots/PBI_Dashboard_Project_Page_2.png)........
 
 ## How to Run This Project
 1. **Snowflake DDL Execution:** Run the schema configuration queries found inside `snowflake-architecture/Create_Ecommerce_Analytics_DB.sql`.
