@@ -98,7 +98,7 @@ The Power BI executive framework contains highly advanced multi-page analytics:
 3. **Power BI Report Inspection:** Open the interactive report file `power-bi/PBI_SNOWFLAKE_PROJECT.pbix` inside Power BI Desktop to interact with live panels.
    
 ## Results & Conclusion
-The dashboard successfully bridges raw e-commerce operations with administrative visualization. The high 39.69% profit margin indicates solid overall health, but the sharp dependency on the 18-24 age group highlights areas where targeted marketing could tap into older demographics. Furthermore, supply chain and marketing efforts should be heavily aligned with mid-year surges to maximize seasonal revenue.
+The dashboard connects e-commerce data with clear business insights. The high 39.69% profit margin indicates good profitability. Customers aged 55+ contribute the highest sales, at 55.67M, making them an important customer segment. The business can focus on retaining these customers and attracting other age groups through targeted marketing. Marketing and inventory planning should also consider seasonal sales trends to maximize revenue and profitability.
 
 ## Future Work & Scalability
 * **ELT Automation:** Integrate automated orchestration using Apache Airflow or dbt to automate data refreshes.
