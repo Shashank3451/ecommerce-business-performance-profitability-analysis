@@ -1,9 +1,10 @@
 # Advanced SQL Analytics & Database Design
 This directory contains the core analytical engine of the project. The scripts are divided into database schema setup and business-oriented analytical queries.
 
-## Files Included
-- `table_creation.sql`: Contains the DDL code to build the relational tables (Customers, Orders, Products, Payments) with proper primary and foreign key constraints.
-- `business_questions.sql`: Contains SQL queries organized into six analytical sections to answer business questions and derive meaningful business insights.
+ ## Files Included
+- [`Create_Ecommerce_Analytics_DB.sql`](../snowflake-architecture/Create_Ecommerce_Analytics_DB.sql) — Contains SQL statements for creating the Snowflake database and setting up the analytics environment.
+- [`Insert_Data_from_Stage.sql`](../snowflake-architecture/Insert_Data_from_Stage.sql) — Contains SQL statements for loading data from a Snowflake stage into the target tables.
+- [`SQL_Queries_Analysis.sql`](SQL_Queries_Analysis.sql) — Contains SQL queries organized into six analytical sections to analyze business performance, profitability, and customer segmentation.
 
 ## SQL Analysis Framework
 The SQL analysis is organized into six key business domains, with dedicated queries developed to investigate business questions, analyze performance, and derive actionable insights.
