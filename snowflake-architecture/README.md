@@ -1,35 +1,49 @@
 # Snowflake Data Warehousing & Architecture
-This folder contains the documentation and details of the data warehousing setup in
-Snowflake for the E-commerce Analytics Project.
+This folder contains the documentation and details of the Snowflake data warehousing setup for the E-commerce Analytics Project, covering data ingestion, database design, and compute resource configuration.
 
 ## Architecture Components
 
-### 1. Storage & Ingestion (Staging)- Data Source: Raw E-commerce datasets (Customers, Orders, Products, Date, Payments) in CSV
-format.- Stage Type: Internal Named Stage (@ECOM_STAGE) used to upload files safely before
-loading into tables.- File Format: CSV format with SKIP_HEADER = 1, FIELD_OPTIONALLY_ENCLOSED_BY = '"', and
-ERROR_ON_COLUMN_COUNT_MISMATCH = FALSE.
+### 1. Storage & Ingestion (Staging)
+
+- **Data Source:** Raw e-commerce datasets (Customers, Orders, Products, Date, and Payments) in CSV format.
+- **Stage Type:** Internal named stage (`@ECOM_STAGE`) used to upload files before loading them into tables.
+- **File Format:** CSV format with `SKIP_HEADER = 1`, `FIELD_OPTIONALLY_ENCLOSED_BY = '"'`, and `ERROR_ON_COLUMN_COUNT_MISMATCH = FALSE`.
 
 ### 2. Database Schema Design
-We implemented a multi-layer schema approach to maintain data quality:- RAW_STAGE_DB: Holds the raw, untouched data directly from CSV files.- ANALYTICS_DB: Contains the cleaned, transformed, and final structured tables (Fact and
-Dimension tables) optimized for Power BI.
 
-### 3. Virtual Warehouse Configuration- Warehouse Name: COMPUTE_WH- Size: X-Small (Sufficient for handling millions of rows for this analysis while
-keeping cloud costs low).- Scaling Policy: Standard, with Auto-Suspend set to 5 minutes to save credits when
-idle.
+A multi-layer schema approach was implemented to organize raw data and analytical tables.
 
-## Key Snowflake Commands Used (Examples)```
+- **RAW_STAGE_DB:** Stores raw, unmodified data loaded from CSV files.
+- **ANALYTICS_DB:** Contains cleaned, transformed, and structured fact and dimension tables optimized for Power BI reporting.
 
--- 1. Create Internal Stage
+### 3. Virtual Warehouse Configuration
+
+- **Warehouse Name:** `COMPUTE_WH`
+- **Size:** `X-Small`, configured to support the analytical workload while controlling compute costs.
+- **Scaling Policy:** Standard, with auto-suspend set to 5 minutes to reduce credit consumption during idle periods.
+
+## Key Snowflake Commands Used
+The following commands illustrate the core steps involved in setting up the staging environment and defining the CSV file format.
+
+### 1. Create Internal Stage
+
+```sql
 CREATE OR REPLACE STAGE ECOM_STAGE;
+```
 
--- 2. Create File Format
+### 2. Create CSV File Format
+
+```sql
 CREATE OR REPLACE FILE FORMAT csv_format
 TYPE = 'CSV'
 FIELD_DELIMITER = ','
 SKIP_HEADER = 1
 FIELD_OPTIONALLY_ENCLOSED_BY = '"';
+```
 
--- 3. Copy Data from Stage to Table
+### 3. Copy Data from Stage to Table
+
+```sql
 COPY INTO RAW_STAGE_DB.PUBLIC.CUSTOMERS
 FROM @ECOM_STAGE/customers.csv
 FILE_FORMAT = (FORMAT_NAME = csv_format)
