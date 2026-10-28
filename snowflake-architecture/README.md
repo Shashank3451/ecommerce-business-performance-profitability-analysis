@@ -1,20 +1,28 @@
 # Snowflake Data Warehousing & Architecture
-This folder contains the documentation and details of the Snowflake data warehousing setup for the E-commerce Analytics Project, covering data ingestion, database design, and compute resource configuration.
+This folder contains the Snowflake data warehousing setup for the E-commerce Analytics Project, covering CSV data ingestion, database schema design, and data loading into analytical tables.
 
 ## Architecture Components
 
 ### 1. Storage & Ingestion (Staging)
 
-- **Data Source:** Raw e-commerce datasets (Customers, Orders, Products, Date, and Payments) in CSV format.
-- **Stage Type:** Internal named stage (`@ECOM_STAGE`) used to upload files before loading them into tables.
-- **File Format:** CSV format with `SKIP_HEADER = 1`, `FIELD_OPTIONALLY_ENCLOSED_BY = '"'`, and `ERROR_ON_COLUMN_COUNT_MISMATCH = FALSE`.
+- **Data Source:** E-commerce datasets in CSV format, including Date, Customer, Product, Order, and Order Items data.
+- **Stage Type:** Snowflake internal named stage (`ECOM_STAGE`) used to store CSV files before loading them into tables.
+- **File Format:** CSV format configured with `SKIP_HEADER = 1`, `FIELD_OPTIONALLY_ENCLOSED_BY = '"'`, `NULL_IF = ('NULL', 'null')`, `EMPTY_FIELD_AS_NULL = TRUE`, and `DATE_FORMAT = 'DD-MM-YYYY'`.
+- **Data Loading:** Snowflake `COPY INTO` commands load the staged CSV files into the dimension and fact tables.
 
 ### 2. Database Schema Design
 
-A multi-layer schema approach was implemented to organize raw data and analytical tables.
+The project uses the following database and schema:
 
-- **RAW_STAGE_DB:** Stores raw, unmodified data loaded from CSV files.
-- **ANALYTICS_DB:** Contains cleaned, transformed, and structured fact and dimension tables optimized for Power BI reporting.
+- **Database:** `ECOMMERCE_ANALYTICS_DB`
+- **Schema:** `PROFITABILITY_ANALYSIS`
+
+The schema contains four dimension tables and one fact table:
+
+- **Dimension Tables:** `DIM_DATE`, `DIM_CUSTOMER`, `DIM_PRODUCT`, `DIM_ORDER`
+- **Fact Table:** `FACT_ORDER_ITEMS`
+
+These tables support analysis of overall business performance, product and category performance, discount impact, profitability, and customer segmentation.
 
 ### 3. Virtual Warehouse Configuration
 
